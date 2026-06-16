@@ -60,7 +60,7 @@ saas-vibe-churn/
 ├── requirements.txt         # Dependencias del proyecto
 └── README.md
 
-## **System Arquitecture**
+## System Arquitecture
 
 +-----------------------------------------------------------------------------------+
 |                                   GITHUB (CI/CD)                                  |
