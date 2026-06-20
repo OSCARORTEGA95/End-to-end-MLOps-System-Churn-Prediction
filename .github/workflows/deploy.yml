@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - main
-    # Only trigger the workflow if files inside the Data folder change
+      - master
+      # Only trigger the workflow if files inside the Data folder change
     paths:
       - 'Data/**'
 
