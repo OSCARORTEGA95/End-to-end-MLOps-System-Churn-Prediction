@@ -1,0 +1,2001 @@
+cliente_id,sector_industrial,antiguedad_meses,licencias_contratadas,tipo_soporte,metodo_pago,churn
+CLI-0001,Educación / EdTech,9,8,Básico,Tarjeta de Crédito,1
+CLI-0002,Retail y Comercio,3,16,Premium,Tarjeta de Crédito,1
+CLI-0003,Educación / EdTech,15,11,Básico,Tarjeta de Crédito,0
+CLI-0004,Manufactura Avanzada,8,33,Básico,Tarjeta de Crédito,0
+CLI-0005,Logística y Distribución,10,19,Básico,Tarjeta de Crédito,1
+CLI-0006,Fintech & Banca,7,21,Básico,PayPal Business,0
+CLI-0007,Manufactura Avanzada,11,32,Básico,Tarjeta de Crédito,0
+CLI-0008,Educación / EdTech,15,18,Básico,PayPal Business,0
+CLI-0009,Salud & Pharma,16,11,Básico,PayPal Business,0
+CLI-0010,Entretenimiento & Medios,19,20,Básico,Tarjeta de Crédito,0
+CLI-0011,Fintech & Banca,4,33,Premium,PayPal Business,0
+CLI-0012,Retail y Comercio,7,14,Premium,Tarjeta de Crédito,0
+CLI-0013,Entretenimiento & Medios,8,31,Básico,Transferencia Bancaria (ACH),1
+CLI-0014,Salud & Pharma,48,22,Premium,Tarjeta de Crédito,0
+CLI-0015,Retail y Comercio,42,16,Premium,PayPal Business,0
+CLI-0016,Logística y Distribución,4,20,Básico,PayPal Business,0
+CLI-0017,Logística y Distribución,3,8,Básico,Transferencia Bancaria (ACH),1
+CLI-0018,Retail y Comercio,27,5,Básico,PayPal Business,0
+CLI-0019,Entretenimiento & Medios,7,8,Premium,Transferencia Bancaria (ACH),0
+CLI-0020,Educación / EdTech,4,15,Premium,Tarjeta de Crédito,1
+CLI-0021,Fintech & Banca,23,46,Premium,Transferencia Bancaria (ACH),0
+CLI-0022,Entretenimiento & Medios,23,20,Básico,Tarjeta de Crédito,0
+CLI-0023,Salud & Pharma,9,5,Básico,Transferencia Bancaria (ACH),0
+CLI-0024,Entretenimiento & Medios,8,21,Básico,Transferencia Bancaria (ACH),1
+CLI-0025,Retail y Comercio,21,20,Básico,Tarjeta de Crédito,0
+CLI-0026,Educación / EdTech,4,16,Premium,PayPal Business,0
+CLI-0027,Manufactura Avanzada,23,57,Básico,PayPal Business,1
+CLI-0028,Educación / EdTech,13,17,Básico,Tarjeta de Crédito,1
+CLI-0029,Salud & Pharma,3,6,Básico,Transferencia Bancaria (ACH),0
+CLI-0030,Educación / EdTech,36,21,Básico,PayPal Business,0
+CLI-0031,Educación / EdTech,10,10,Básico,Transferencia Bancaria (ACH),0
+CLI-0032,Entretenimiento & Medios,7,19,Básico,Tarjeta de Crédito,0
+CLI-0033,Logística y Distribución,40,18,Premium,Transferencia Bancaria (ACH),0
+CLI-0034,Logística y Distribución,25,21,Básico,Tarjeta de Crédito,0
+CLI-0035,Manufactura Avanzada,34,56,Premium,PayPal Business,0
+CLI-0036,Educación / EdTech,8,16,Básico,Transferencia Bancaria (ACH),0
+CLI-0037,Educación / EdTech,6,22,Premium,Transferencia Bancaria (ACH),0
+CLI-0038,Fintech & Banca,3,36,Básico,Tarjeta de Crédito,0
+CLI-0039,Manufactura Avanzada,10,35,Básico,Transferencia Bancaria (ACH),0
+CLI-0040,Salud & Pharma,43,13,Básico,PayPal Business,0
+CLI-0041,Fintech & Banca,13,28,Premium,Tarjeta de Crédito,0
+CLI-0042,Logística y Distribución,48,23,Básico,Tarjeta de Crédito,0
+CLI-0043,Fintech & Banca,12,27,Básico,PayPal Business,1
+CLI-0044,Educación / EdTech,16,9,Básico,Transferencia Bancaria (ACH),0
+CLI-0045,Salud & Pharma,3,17,Básico,Transferencia Bancaria (ACH),0
+CLI-0046,Salud & Pharma,5,13,Básico,PayPal Business,1
+CLI-0047,Manufactura Avanzada,48,49,Premium,Tarjeta de Crédito,0
+CLI-0048,Logística y Distribución,6,8,Premium,PayPal Business,0
+CLI-0049,Entretenimiento & Medios,9,23,Básico,Transferencia Bancaria (ACH),0
+CLI-0050,Retail y Comercio,4,23,Premium,Tarjeta de Crédito,1
+CLI-0051,Fintech & Banca,8,60,Básico,Transferencia Bancaria (ACH),1
+CLI-0052,Educación / EdTech,13,20,Básico,PayPal Business,0
+CLI-0053,Manufactura Avanzada,17,46,Básico,Tarjeta de Crédito,0
+CLI-0054,Logística y Distribución,41,9,Básico,PayPal Business,1
+CLI-0055,Educación / EdTech,8,12,Premium,PayPal Business,0
+CLI-0056,Fintech & Banca,26,46,Básico,Transferencia Bancaria (ACH),0
+CLI-0057,Manufactura Avanzada,13,36,Premium,PayPal Business,0
+CLI-0058,Manufactura Avanzada,35,37,Básico,Transferencia Bancaria (ACH),0
+CLI-0059,Logística y Distribución,8,22,Premium,Transferencia Bancaria (ACH),0
+CLI-0060,Entretenimiento & Medios,33,9,Premium,Transferencia Bancaria (ACH),0
+CLI-0061,Fintech & Banca,17,42,Básico,PayPal Business,0
+CLI-0062,Logística y Distribución,4,20,Premium,PayPal Business,0
+CLI-0063,Logística y Distribución,3,16,Premium,PayPal Business,0
+CLI-0064,Fintech & Banca,17,25,Básico,PayPal Business,0
+CLI-0065,Manufactura Avanzada,20,30,Premium,Tarjeta de Crédito,0
+CLI-0066,Entretenimiento & Medios,17,8,Premium,PayPal Business,0
+CLI-0067,Fintech & Banca,18,29,Básico,PayPal Business,0
+CLI-0068,Educación / EdTech,7,15,Básico,Tarjeta de Crédito,0
+CLI-0069,Salud & Pharma,48,20,Básico,PayPal Business,0
+CLI-0070,Salud & Pharma,25,13,Básico,PayPal Business,0
+CLI-0071,Fintech & Banca,15,23,Premium,Tarjeta de Crédito,0
+CLI-0072,Logística y Distribución,7,14,Básico,PayPal Business,0
+CLI-0073,Manufactura Avanzada,17,38,Premium,Tarjeta de Crédito,1
+CLI-0074,Educación / EdTech,48,19,Premium,PayPal Business,0
+CLI-0075,Logística y Distribución,7,21,Básico,Tarjeta de Crédito,0
+CLI-0076,Logística y Distribución,5,12,Básico,PayPal Business,1
+CLI-0077,Educación / EdTech,41,18,Básico,Transferencia Bancaria (ACH),0
+CLI-0078,Fintech & Banca,16,61,Premium,PayPal Business,0
+CLI-0079,Manufactura Avanzada,5,52,Premium,PayPal Business,0
+CLI-0080,Entretenimiento & Medios,19,15,Premium,Transferencia Bancaria (ACH),0
+CLI-0081,Fintech & Banca,9,50,Premium,Tarjeta de Crédito,0
+CLI-0082,Salud & Pharma,31,11,Premium,Transferencia Bancaria (ACH),0
+CLI-0083,Salud & Pharma,13,23,Básico,PayPal Business,1
+CLI-0084,Educación / EdTech,19,15,Premium,PayPal Business,0
+CLI-0085,Salud & Pharma,33,8,Básico,PayPal Business,0
+CLI-0086,Entretenimiento & Medios,15,5,Básico,Tarjeta de Crédito,1
+CLI-0087,Fintech & Banca,11,18,Básico,PayPal Business,0
+CLI-0088,Salud & Pharma,3,17,Básico,Tarjeta de Crédito,1
+CLI-0089,Fintech & Banca,27,29,Básico,Tarjeta de Crédito,0
+CLI-0090,Entretenimiento & Medios,23,12,Básico,PayPal Business,1
+CLI-0091,Educación / EdTech,16,29,Básico,PayPal Business,0
+CLI-0092,Logística y Distribución,21,26,Premium,Tarjeta de Crédito,0
+CLI-0093,Salud & Pharma,13,21,Básico,Transferencia Bancaria (ACH),0
+CLI-0094,Salud & Pharma,11,11,Básico,Tarjeta de Crédito,1
+CLI-0095,Logística y Distribución,3,10,Básico,Transferencia Bancaria (ACH),1
+CLI-0096,Entretenimiento & Medios,5,24,Básico,Transferencia Bancaria (ACH),1
+CLI-0097,Educación / EdTech,14,20,Básico,PayPal Business,0
+CLI-0098,Manufactura Avanzada,46,55,Premium,PayPal Business,0
+CLI-0099,Fintech & Banca,14,24,Básico,Tarjeta de Crédito,0
+CLI-0100,Logística y Distribución,9,26,Premium,PayPal Business,0
+CLI-0101,Logística y Distribución,3,13,Básico,PayPal Business,1
+CLI-0102,Logística y Distribución,12,26,Básico,PayPal Business,0
+CLI-0103,Entretenimiento & Medios,5,5,Básico,PayPal Business,1
+CLI-0104,Manufactura Avanzada,17,24,Básico,Tarjeta de Crédito,0
+CLI-0105,Logística y Distribución,9,15,Premium,PayPal Business,0
+CLI-0106,Entretenimiento & Medios,18,29,Básico,Tarjeta de Crédito,0
+CLI-0107,Manufactura Avanzada,4,37,Básico,Tarjeta de Crédito,0
+CLI-0108,Logística y Distribución,42,15,Básico,PayPal Business,1
+CLI-0109,Educación / EdTech,9,11,Básico,PayPal Business,0
+CLI-0110,Retail y Comercio,42,27,Básico,Transferencia Bancaria (ACH),0
+CLI-0111,Educación / EdTech,48,12,Básico,Transferencia Bancaria (ACH),0
+CLI-0112,Salud & Pharma,29,16,Básico,Tarjeta de Crédito,0
+CLI-0113,Retail y Comercio,26,11,Premium,Transferencia Bancaria (ACH),0
+CLI-0114,Entretenimiento & Medios,16,12,Premium,Tarjeta de Crédito,1
+CLI-0115,Manufactura Avanzada,21,32,Básico,PayPal Business,0
+CLI-0116,Logística y Distribución,22,20,Premium,PayPal Business,0
+CLI-0117,Retail y Comercio,48,5,Premium,Tarjeta de Crédito,0
+CLI-0118,Logística y Distribución,8,7,Premium,Tarjeta de Crédito,0
+CLI-0119,Fintech & Banca,30,58,Premium,Transferencia Bancaria (ACH),0
+CLI-0120,Educación / EdTech,4,12,Premium,Transferencia Bancaria (ACH),0
+CLI-0121,Entretenimiento & Medios,12,11,Premium,PayPal Business,0
+CLI-0122,Educación / EdTech,9,20,Básico,PayPal Business,0
+CLI-0123,Educación / EdTech,36,13,Premium,Tarjeta de Crédito,0
+CLI-0124,Fintech & Banca,45,32,Básico,Transferencia Bancaria (ACH),1
+CLI-0125,Logística y Distribución,16,5,Básico,PayPal Business,0
+CLI-0126,Retail y Comercio,18,12,Premium,Transferencia Bancaria (ACH),0
+CLI-0127,Educación / EdTech,24,10,Básico,Transferencia Bancaria (ACH),0
+CLI-0128,Educación / EdTech,11,14,Premium,Transferencia Bancaria (ACH),0
+CLI-0129,Retail y Comercio,9,18,Básico,Tarjeta de Crédito,1
+CLI-0130,Salud & Pharma,4,23,Premium,Transferencia Bancaria (ACH),1
+CLI-0131,Retail y Comercio,4,18,Básico,Tarjeta de Crédito,0
+CLI-0132,Retail y Comercio,4,20,Premium,Tarjeta de Crédito,0
+CLI-0133,Manufactura Avanzada,9,53,Premium,PayPal Business,0
+CLI-0134,Logística y Distribución,48,12,Premium,Tarjeta de Crédito,0
+CLI-0135,Educación / EdTech,9,5,Premium,Tarjeta de Crédito,0
+CLI-0136,Entretenimiento & Medios,4,24,Básico,Transferencia Bancaria (ACH),0
+CLI-0137,Fintech & Banca,3,31,Básico,Transferencia Bancaria (ACH),1
+CLI-0138,Retail y Comercio,4,14,Básico,Transferencia Bancaria (ACH),0
+CLI-0139,Entretenimiento & Medios,22,17,Básico,Tarjeta de Crédito,0
+CLI-0140,Fintech & Banca,7,41,Premium,PayPal Business,0
+CLI-0141,Logística y Distribución,6,15,Premium,Transferencia Bancaria (ACH),0
+CLI-0142,Entretenimiento & Medios,4,20,Básico,Transferencia Bancaria (ACH),0
+CLI-0143,Educación / EdTech,48,28,Premium,Tarjeta de Crédito,0
+CLI-0144,Fintech & Banca,11,44,Básico,Tarjeta de Crédito,0
+CLI-0145,Entretenimiento & Medios,15,14,Básico,Tarjeta de Crédito,0
+CLI-0146,Logística y Distribución,7,20,Básico,Tarjeta de Crédito,0
+CLI-0147,Retail y Comercio,11,21,Básico,Transferencia Bancaria (ACH),0
+CLI-0148,Entretenimiento & Medios,48,5,Premium,PayPal Business,0
+CLI-0149,Retail y Comercio,19,5,Premium,Tarjeta de Crédito,0
+CLI-0150,Logística y Distribución,19,17,Básico,Transferencia Bancaria (ACH),0
+CLI-0151,Entretenimiento & Medios,36,19,Básico,Transferencia Bancaria (ACH),0
+CLI-0152,Entretenimiento & Medios,40,23,Premium,Transferencia Bancaria (ACH),0
+CLI-0153,Entretenimiento & Medios,3,14,Premium,Tarjeta de Crédito,1
+CLI-0154,Educación / EdTech,48,13,Básico,Tarjeta de Crédito,0
+CLI-0155,Retail y Comercio,15,17,Premium,Tarjeta de Crédito,0
+CLI-0156,Retail y Comercio,28,14,Básico,Transferencia Bancaria (ACH),0
+CLI-0157,Salud & Pharma,10,14,Premium,PayPal Business,0
+CLI-0158,Manufactura Avanzada,26,39,Premium,Transferencia Bancaria (ACH),0
+CLI-0159,Logística y Distribución,48,24,Premium,Transferencia Bancaria (ACH),0
+CLI-0160,Retail y Comercio,29,16,Básico,Tarjeta de Crédito,1
+CLI-0161,Salud & Pharma,11,6,Premium,Transferencia Bancaria (ACH),0
+CLI-0162,Retail y Comercio,16,18,Básico,Transferencia Bancaria (ACH),0
+CLI-0163,Manufactura Avanzada,4,42,Premium,Tarjeta de Crédito,0
+CLI-0164,Manufactura Avanzada,13,64,Premium,Tarjeta de Crédito,0
+CLI-0165,Educación / EdTech,14,21,Básico,Transferencia Bancaria (ACH),1
+CLI-0166,Entretenimiento & Medios,5,15,Básico,PayPal Business,0
+CLI-0167,Educación / EdTech,22,23,Básico,PayPal Business,0
+CLI-0168,Retail y Comercio,5,20,Básico,Transferencia Bancaria (ACH),1
+CLI-0169,Educación / EdTech,9,5,Básico,Transferencia Bancaria (ACH),0
+CLI-0170,Educación / EdTech,35,23,Básico,Tarjeta de Crédito,0
+CLI-0171,Retail y Comercio,13,12,Básico,PayPal Business,0
+CLI-0172,Salud & Pharma,30,23,Premium,Transferencia Bancaria (ACH),0
+CLI-0173,Retail y Comercio,5,14,Básico,PayPal Business,1
+CLI-0174,Salud & Pharma,11,19,Premium,PayPal Business,0
+CLI-0175,Educación / EdTech,12,21,Básico,PayPal Business,0
+CLI-0176,Manufactura Avanzada,4,22,Básico,PayPal Business,1
+CLI-0177,Manufactura Avanzada,4,26,Básico,Tarjeta de Crédito,1
+CLI-0178,Fintech & Banca,34,45,Básico,Transferencia Bancaria (ACH),0
+CLI-0179,Manufactura Avanzada,18,34,Básico,PayPal Business,0
+CLI-0180,Salud & Pharma,5,12,Básico,Transferencia Bancaria (ACH),0
+CLI-0181,Manufactura Avanzada,5,22,Básico,Transferencia Bancaria (ACH),0
+CLI-0182,Entretenimiento & Medios,12,13,Premium,PayPal Business,0
+CLI-0183,Logística y Distribución,3,18,Básico,Transferencia Bancaria (ACH),0
+CLI-0184,Educación / EdTech,31,22,Premium,PayPal Business,0
+CLI-0185,Entretenimiento & Medios,3,20,Premium,Tarjeta de Crédito,0
+CLI-0186,Fintech & Banca,5,32,Básico,Tarjeta de Crédito,1
+CLI-0187,Logística y Distribución,9,29,Básico,Tarjeta de Crédito,0
+CLI-0188,Manufactura Avanzada,11,36,Premium,Tarjeta de Crédito,0
+CLI-0189,Educación / EdTech,3,20,Premium,PayPal Business,1
+CLI-0190,Educación / EdTech,13,9,Básico,Transferencia Bancaria (ACH),0
+CLI-0191,Fintech & Banca,4,58,Básico,Tarjeta de Crédito,0
+CLI-0192,Logística y Distribución,7,5,Básico,Tarjeta de Crédito,0
+CLI-0193,Fintech & Banca,3,27,Básico,Tarjeta de Crédito,0
+CLI-0194,Educación / EdTech,4,11,Premium,PayPal Business,0
+CLI-0195,Manufactura Avanzada,15,52,Básico,Tarjeta de Crédito,0
+CLI-0196,Logística y Distribución,4,18,Básico,Transferencia Bancaria (ACH),1
+CLI-0197,Salud & Pharma,15,12,Básico,PayPal Business,0
+CLI-0198,Manufactura Avanzada,7,58,Básico,PayPal Business,0
+CLI-0199,Entretenimiento & Medios,17,5,Premium,Transferencia Bancaria (ACH),0
+CLI-0200,Educación / EdTech,16,20,Básico,PayPal Business,0
+CLI-0201,Manufactura Avanzada,4,34,Básico,Transferencia Bancaria (ACH),0
+CLI-0202,Educación / EdTech,5,11,Básico,Transferencia Bancaria (ACH),0
+CLI-0203,Entretenimiento & Medios,5,5,Premium,Tarjeta de Crédito,0
+CLI-0204,Retail y Comercio,4,19,Básico,PayPal Business,0
+CLI-0205,Fintech & Banca,48,42,Básico,Transferencia Bancaria (ACH),0
+CLI-0206,Educación / EdTech,5,16,Premium,Transferencia Bancaria (ACH),1
+CLI-0207,Retail y Comercio,40,27,Básico,Transferencia Bancaria (ACH),0
+CLI-0208,Logística y Distribución,23,24,Básico,Tarjeta de Crédito,1
+CLI-0209,Salud & Pharma,8,16,Básico,PayPal Business,1
+CLI-0210,Fintech & Banca,4,7,Básico,Tarjeta de Crédito,1
+CLI-0211,Retail y Comercio,7,8,Básico,PayPal Business,0
+CLI-0212,Logística y Distribución,13,16,Básico,Tarjeta de Crédito,0
+CLI-0213,Salud & Pharma,8,11,Premium,PayPal Business,0
+CLI-0214,Logística y Distribución,22,19,Básico,PayPal Business,0
+CLI-0215,Logística y Distribución,11,5,Premium,Transferencia Bancaria (ACH),0
+CLI-0216,Salud & Pharma,27,8,Premium,Transferencia Bancaria (ACH),0
+CLI-0217,Educación / EdTech,4,16,Básico,PayPal Business,0
+CLI-0218,Fintech & Banca,3,41,Premium,Transferencia Bancaria (ACH),1
+CLI-0219,Salud & Pharma,14,14,Premium,Transferencia Bancaria (ACH),1
+CLI-0220,Retail y Comercio,6,15,Básico,PayPal Business,0
+CLI-0221,Salud & Pharma,5,18,Básico,PayPal Business,1
+CLI-0222,Salud & Pharma,9,21,Premium,Tarjeta de Crédito,0
+CLI-0223,Manufactura Avanzada,9,36,Básico,Tarjeta de Crédito,0
+CLI-0224,Manufactura Avanzada,11,55,Básico,PayPal Business,0
+CLI-0225,Logística y Distribución,22,5,Premium,PayPal Business,0
+CLI-0226,Entretenimiento & Medios,9,15,Básico,Transferencia Bancaria (ACH),1
+CLI-0227,Retail y Comercio,36,9,Premium,Transferencia Bancaria (ACH),0
+CLI-0228,Salud & Pharma,16,16,Básico,Transferencia Bancaria (ACH),0
+CLI-0229,Salud & Pharma,5,18,Básico,Transferencia Bancaria (ACH),0
+CLI-0230,Entretenimiento & Medios,34,22,Premium,Transferencia Bancaria (ACH),0
+CLI-0231,Logística y Distribución,5,8,Premium,Transferencia Bancaria (ACH),1
+CLI-0232,Manufactura Avanzada,3,30,Básico,Tarjeta de Crédito,0
+CLI-0233,Retail y Comercio,23,12,Premium,Tarjeta de Crédito,0
+CLI-0234,Entretenimiento & Medios,4,19,Premium,PayPal Business,1
+CLI-0235,Logística y Distribución,4,22,Básico,Tarjeta de Crédito,1
+CLI-0236,Logística y Distribución,6,12,Premium,PayPal Business,0
+CLI-0237,Fintech & Banca,20,56,Básico,Transferencia Bancaria (ACH),0
+CLI-0238,Manufactura Avanzada,7,52,Básico,Tarjeta de Crédito,0
+CLI-0239,Retail y Comercio,5,16,Básico,Transferencia Bancaria (ACH),1
+CLI-0240,Manufactura Avanzada,11,50,Premium,PayPal Business,0
+CLI-0241,Entretenimiento & Medios,5,16,Básico,Tarjeta de Crédito,0
+CLI-0242,Logística y Distribución,3,30,Premium,PayPal Business,1
+CLI-0243,Retail y Comercio,40,25,Premium,PayPal Business,0
+CLI-0244,Salud & Pharma,20,18,Básico,Transferencia Bancaria (ACH),0
+CLI-0245,Fintech & Banca,15,23,Premium,Tarjeta de Crédito,0
+CLI-0246,Entretenimiento & Medios,41,26,Premium,PayPal Business,0
+CLI-0247,Educación / EdTech,11,30,Básico,Transferencia Bancaria (ACH),0
+CLI-0248,Manufactura Avanzada,3,46,Básico,Tarjeta de Crédito,0
+CLI-0249,Manufactura Avanzada,25,50,Premium,Tarjeta de Crédito,0
+CLI-0250,Salud & Pharma,8,5,Básico,PayPal Business,0
+CLI-0251,Manufactura Avanzada,21,21,Básico,PayPal Business,0
+CLI-0252,Entretenimiento & Medios,5,13,Básico,Transferencia Bancaria (ACH),0
+CLI-0253,Logística y Distribución,12,19,Básico,Transferencia Bancaria (ACH),0
+CLI-0254,Educación / EdTech,15,14,Básico,Transferencia Bancaria (ACH),0
+CLI-0255,Salud & Pharma,3,8,Premium,Tarjeta de Crédito,0
+CLI-0256,Educación / EdTech,5,18,Básico,Transferencia Bancaria (ACH),0
+CLI-0257,Manufactura Avanzada,4,40,Básico,Transferencia Bancaria (ACH),0
+CLI-0258,Entretenimiento & Medios,3,15,Premium,PayPal Business,0
+CLI-0259,Retail y Comercio,6,14,Básico,Tarjeta de Crédito,0
+CLI-0260,Logística y Distribución,3,15,Básico,Transferencia Bancaria (ACH),0
+CLI-0261,Fintech & Banca,14,56,Básico,Transferencia Bancaria (ACH),0
+CLI-0262,Educación / EdTech,10,5,Básico,Transferencia Bancaria (ACH),0
+CLI-0263,Salud & Pharma,5,16,Premium,Transferencia Bancaria (ACH),1
+CLI-0264,Fintech & Banca,9,36,Básico,Transferencia Bancaria (ACH),0
+CLI-0265,Retail y Comercio,17,12,Básico,Transferencia Bancaria (ACH),0
+CLI-0266,Educación / EdTech,20,14,Premium,Transferencia Bancaria (ACH),0
+CLI-0267,Manufactura Avanzada,3,31,Premium,Tarjeta de Crédito,1
+CLI-0268,Educación / EdTech,3,10,Básico,Transferencia Bancaria (ACH),0
+CLI-0269,Entretenimiento & Medios,25,18,Básico,Tarjeta de Crédito,0
+CLI-0270,Educación / EdTech,4,8,Básico,PayPal Business,1
+CLI-0271,Entretenimiento & Medios,20,16,Básico,Tarjeta de Crédito,1
+CLI-0272,Fintech & Banca,18,43,Básico,Transferencia Bancaria (ACH),0
+CLI-0273,Retail y Comercio,7,5,Premium,PayPal Business,0
+CLI-0274,Salud & Pharma,26,25,Básico,PayPal Business,0
+CLI-0275,Salud & Pharma,7,22,Básico,PayPal Business,0
+CLI-0276,Retail y Comercio,16,5,Básico,PayPal Business,0
+CLI-0277,Retail y Comercio,14,5,Premium,Transferencia Bancaria (ACH),0
+CLI-0278,Educación / EdTech,23,11,Básico,Tarjeta de Crédito,0
+CLI-0279,Educación / EdTech,31,20,Premium,PayPal Business,0
+CLI-0280,Educación / EdTech,10,14,Básico,Tarjeta de Crédito,1
+CLI-0281,Educación / EdTech,7,27,Básico,Transferencia Bancaria (ACH),0
+CLI-0282,Manufactura Avanzada,5,48,Premium,PayPal Business,0
+CLI-0283,Logística y Distribución,48,7,Básico,Tarjeta de Crédito,1
+CLI-0284,Retail y Comercio,3,15,Premium,Tarjeta de Crédito,0
+CLI-0285,Educación / EdTech,4,5,Básico,PayPal Business,1
+CLI-0286,Logística y Distribución,17,18,Premium,Tarjeta de Crédito,0
+CLI-0287,Educación / EdTech,6,24,Premium,Tarjeta de Crédito,0
+CLI-0288,Entretenimiento & Medios,5,24,Premium,Transferencia Bancaria (ACH),1
+CLI-0289,Logística y Distribución,10,17,Básico,PayPal Business,0
+CLI-0290,Salud & Pharma,5,5,Premium,Transferencia Bancaria (ACH),1
+CLI-0291,Logística y Distribución,4,6,Básico,Transferencia Bancaria (ACH),0
+CLI-0292,Salud & Pharma,7,18,Básico,Tarjeta de Crédito,0
+CLI-0293,Salud & Pharma,20,18,Básico,Transferencia Bancaria (ACH),1
+CLI-0294,Educación / EdTech,18,5,Premium,PayPal Business,1
+CLI-0295,Fintech & Banca,21,47,Básico,PayPal Business,0
+CLI-0296,Logística y Distribución,12,5,Básico,Tarjeta de Crédito,1
+CLI-0297,Entretenimiento & Medios,8,12,Básico,Transferencia Bancaria (ACH),0
+CLI-0298,Entretenimiento & Medios,21,16,Básico,PayPal Business,0
+CLI-0299,Manufactura Avanzada,19,21,Premium,Transferencia Bancaria (ACH),0
+CLI-0300,Salud & Pharma,25,12,Premium,Transferencia Bancaria (ACH),0
+CLI-0301,Salud & Pharma,7,5,Básico,Transferencia Bancaria (ACH),0
+CLI-0302,Logística y Distribución,37,21,Básico,PayPal Business,0
+CLI-0303,Logística y Distribución,45,7,Básico,Tarjeta de Crédito,0
+CLI-0304,Retail y Comercio,31,13,Premium,PayPal Business,0
+CLI-0305,Fintech & Banca,25,55,Premium,Tarjeta de Crédito,0
+CLI-0306,Fintech & Banca,7,52,Básico,Tarjeta de Crédito,0
+CLI-0307,Educación / EdTech,6,19,Básico,PayPal Business,0
+CLI-0308,Logística y Distribución,19,15,Básico,Tarjeta de Crédito,0
+CLI-0309,Retail y Comercio,39,21,Premium,PayPal Business,0
+CLI-0310,Logística y Distribución,8,14,Premium,PayPal Business,0
+CLI-0311,Retail y Comercio,3,6,Básico,PayPal Business,0
+CLI-0312,Entretenimiento & Medios,4,18,Premium,Tarjeta de Crédito,0
+CLI-0313,Manufactura Avanzada,8,36,Básico,Tarjeta de Crédito,0
+CLI-0314,Retail y Comercio,13,15,Premium,Tarjeta de Crédito,0
+CLI-0315,Fintech & Banca,8,50,Básico,Transferencia Bancaria (ACH),0
+CLI-0316,Entretenimiento & Medios,6,16,Básico,PayPal Business,0
+CLI-0317,Salud & Pharma,31,19,Premium,Tarjeta de Crédito,0
+CLI-0318,Retail y Comercio,48,15,Básico,PayPal Business,0
+CLI-0319,Retail y Comercio,23,11,Básico,PayPal Business,0
+CLI-0320,Salud & Pharma,31,5,Premium,Tarjeta de Crédito,0
+CLI-0321,Salud & Pharma,23,5,Premium,PayPal Business,0
+CLI-0322,Retail y Comercio,6,5,Básico,Tarjeta de Crédito,1
+CLI-0323,Educación / EdTech,9,8,Básico,PayPal Business,0
+CLI-0324,Logística y Distribución,3,8,Básico,PayPal Business,0
+CLI-0325,Manufactura Avanzada,48,16,Premium,Tarjeta de Crédito,0
+CLI-0326,Fintech & Banca,6,25,Premium,Transferencia Bancaria (ACH),0
+CLI-0327,Salud & Pharma,24,14,Premium,Transferencia Bancaria (ACH),0
+CLI-0328,Manufactura Avanzada,43,30,Básico,Transferencia Bancaria (ACH),0
+CLI-0329,Salud & Pharma,16,22,Básico,Tarjeta de Crédito,0
+CLI-0330,Salud & Pharma,6,24,Básico,Transferencia Bancaria (ACH),0
+CLI-0331,Logística y Distribución,6,18,Básico,Tarjeta de Crédito,0
+CLI-0332,Educación / EdTech,3,11,Premium,Transferencia Bancaria (ACH),1
+CLI-0333,Salud & Pharma,33,12,Premium,PayPal Business,1
+CLI-0334,Logística y Distribución,19,7,Básico,Transferencia Bancaria (ACH),1
+CLI-0335,Logística y Distribución,26,10,Básico,Transferencia Bancaria (ACH),0
+CLI-0336,Entretenimiento & Medios,15,10,Básico,Tarjeta de Crédito,0
+CLI-0337,Manufactura Avanzada,4,35,Básico,Transferencia Bancaria (ACH),1
+CLI-0338,Fintech & Banca,33,47,Premium,PayPal Business,0
+CLI-0339,Entretenimiento & Medios,30,18,Básico,Transferencia Bancaria (ACH),0
+CLI-0340,Entretenimiento & Medios,4,21,Básico,Tarjeta de Crédito,1
+CLI-0341,Manufactura Avanzada,9,50,Básico,Tarjeta de Crédito,0
+CLI-0342,Salud & Pharma,4,9,Básico,PayPal Business,1
+CLI-0343,Logística y Distribución,19,5,Básico,PayPal Business,0
+CLI-0344,Fintech & Banca,27,29,Básico,PayPal Business,1
+CLI-0345,Manufactura Avanzada,18,20,Premium,Tarjeta de Crédito,0
+CLI-0346,Logística y Distribución,25,17,Premium,Tarjeta de Crédito,0
+CLI-0347,Logística y Distribución,29,17,Premium,Transferencia Bancaria (ACH),0
+CLI-0348,Educación / EdTech,19,19,Premium,Tarjeta de Crédito,0
+CLI-0349,Educación / EdTech,16,11,Premium,Transferencia Bancaria (ACH),0
+CLI-0350,Retail y Comercio,31,17,Básico,Transferencia Bancaria (ACH),0
+CLI-0351,Salud & Pharma,27,12,Premium,Tarjeta de Crédito,0
+CLI-0352,Fintech & Banca,5,29,Premium,Transferencia Bancaria (ACH),1
+CLI-0353,Manufactura Avanzada,27,37,Básico,PayPal Business,0
+CLI-0354,Fintech & Banca,16,40,Premium,Tarjeta de Crédito,0
+CLI-0355,Entretenimiento & Medios,16,19,Básico,Transferencia Bancaria (ACH),0
+CLI-0356,Entretenimiento & Medios,24,6,Básico,PayPal Business,1
+CLI-0357,Logística y Distribución,23,18,Básico,Transferencia Bancaria (ACH),0
+CLI-0358,Entretenimiento & Medios,17,15,Premium,PayPal Business,0
+CLI-0359,Educación / EdTech,4,16,Básico,Transferencia Bancaria (ACH),0
+CLI-0360,Salud & Pharma,8,17,Premium,PayPal Business,0
+CLI-0361,Retail y Comercio,3,5,Básico,PayPal Business,0
+CLI-0362,Salud & Pharma,3,20,Premium,Transferencia Bancaria (ACH),0
+CLI-0363,Entretenimiento & Medios,48,17,Básico,Tarjeta de Crédito,0
+CLI-0364,Fintech & Banca,3,33,Básico,PayPal Business,1
+CLI-0365,Entretenimiento & Medios,12,19,Básico,Transferencia Bancaria (ACH),1
+CLI-0366,Educación / EdTech,7,21,Premium,Transferencia Bancaria (ACH),0
+CLI-0367,Entretenimiento & Medios,10,7,Premium,Transferencia Bancaria (ACH),0
+CLI-0368,Educación / EdTech,19,13,Básico,PayPal Business,0
+CLI-0369,Salud & Pharma,4,21,Básico,Tarjeta de Crédito,1
+CLI-0370,Manufactura Avanzada,45,55,Básico,Transferencia Bancaria (ACH),0
+CLI-0371,Entretenimiento & Medios,10,14,Básico,Transferencia Bancaria (ACH),1
+CLI-0372,Salud & Pharma,10,18,Básico,Tarjeta de Crédito,0
+CLI-0373,Salud & Pharma,48,20,Básico,PayPal Business,0
+CLI-0374,Logística y Distribución,6,13,Básico,Transferencia Bancaria (ACH),0
+CLI-0375,Retail y Comercio,17,20,Básico,Transferencia Bancaria (ACH),0
+CLI-0376,Salud & Pharma,48,12,Básico,PayPal Business,1
+CLI-0377,Retail y Comercio,31,19,Premium,PayPal Business,0
+CLI-0378,Salud & Pharma,23,19,Básico,Transferencia Bancaria (ACH),0
+CLI-0379,Entretenimiento & Medios,4,22,Básico,Transferencia Bancaria (ACH),0
+CLI-0380,Logística y Distribución,4,17,Básico,PayPal Business,1
+CLI-0381,Educación / EdTech,19,6,Básico,PayPal Business,0
+CLI-0382,Fintech & Banca,3,36,Básico,PayPal Business,1
+CLI-0383,Logística y Distribución,7,11,Básico,PayPal Business,0
+CLI-0384,Logística y Distribución,3,20,Básico,Transferencia Bancaria (ACH),1
+CLI-0385,Retail y Comercio,9,29,Básico,Tarjeta de Crédito,1
+CLI-0386,Entretenimiento & Medios,19,12,Premium,Tarjeta de Crédito,0
+CLI-0387,Retail y Comercio,24,14,Básico,Transferencia Bancaria (ACH),1
+CLI-0388,Manufactura Avanzada,6,33,Premium,Transferencia Bancaria (ACH),0
+CLI-0389,Entretenimiento & Medios,5,29,Premium,Tarjeta de Crédito,1
+CLI-0390,Logística y Distribución,14,14,Básico,PayPal Business,0
+CLI-0391,Manufactura Avanzada,8,29,Básico,PayPal Business,0
+CLI-0392,Manufactura Avanzada,3,40,Básico,Tarjeta de Crédito,1
+CLI-0393,Educación / EdTech,10,16,Premium,Transferencia Bancaria (ACH),0
+CLI-0394,Educación / EdTech,25,8,Básico,Tarjeta de Crédito,0
+CLI-0395,Salud & Pharma,5,16,Premium,Transferencia Bancaria (ACH),0
+CLI-0396,Fintech & Banca,3,30,Premium,Tarjeta de Crédito,0
+CLI-0397,Retail y Comercio,3,25,Premium,PayPal Business,1
+CLI-0398,Salud & Pharma,20,17,Premium,PayPal Business,0
+CLI-0399,Entretenimiento & Medios,8,15,Premium,Transferencia Bancaria (ACH),0
+CLI-0400,Salud & Pharma,11,20,Básico,Transferencia Bancaria (ACH),1
+CLI-0401,Salud & Pharma,13,12,Básico,PayPal Business,0
+CLI-0402,Retail y Comercio,6,16,Básico,PayPal Business,0
+CLI-0403,Entretenimiento & Medios,31,8,Premium,PayPal Business,0
+CLI-0404,Logística y Distribución,18,11,Básico,PayPal Business,0
+CLI-0405,Entretenimiento & Medios,14,9,Premium,PayPal Business,0
+CLI-0406,Manufactura Avanzada,48,49,Premium,PayPal Business,0
+CLI-0407,Retail y Comercio,6,11,Básico,Tarjeta de Crédito,0
+CLI-0408,Retail y Comercio,7,16,Básico,Tarjeta de Crédito,0
+CLI-0409,Manufactura Avanzada,31,51,Básico,Transferencia Bancaria (ACH),0
+CLI-0410,Educación / EdTech,8,20,Básico,PayPal Business,0
+CLI-0411,Fintech & Banca,48,21,Premium,PayPal Business,0
+CLI-0412,Educación / EdTech,12,27,Premium,PayPal Business,1
+CLI-0413,Entretenimiento & Medios,35,5,Básico,Transferencia Bancaria (ACH),1
+CLI-0414,Retail y Comercio,37,11,Básico,PayPal Business,1
+CLI-0415,Retail y Comercio,16,23,Básico,Transferencia Bancaria (ACH),0
+CLI-0416,Fintech & Banca,20,49,Premium,Tarjeta de Crédito,0
+CLI-0417,Manufactura Avanzada,5,43,Básico,Transferencia Bancaria (ACH),0
+CLI-0418,Retail y Comercio,6,13,Premium,Tarjeta de Crédito,0
+CLI-0419,Entretenimiento & Medios,11,5,Básico,Transferencia Bancaria (ACH),0
+CLI-0420,Retail y Comercio,5,16,Básico,PayPal Business,0
+CLI-0421,Entretenimiento & Medios,48,19,Básico,Tarjeta de Crédito,0
+CLI-0422,Logística y Distribución,23,7,Básico,Tarjeta de Crédito,0
+CLI-0423,Fintech & Banca,48,21,Básico,PayPal Business,0
+CLI-0424,Salud & Pharma,5,13,Básico,PayPal Business,1
+CLI-0425,Entretenimiento & Medios,8,13,Básico,Transferencia Bancaria (ACH),1
+CLI-0426,Manufactura Avanzada,16,54,Premium,Tarjeta de Crédito,0
+CLI-0427,Educación / EdTech,5,20,Básico,PayPal Business,0
+CLI-0428,Manufactura Avanzada,29,54,Premium,Transferencia Bancaria (ACH),0
+CLI-0429,Retail y Comercio,15,13,Básico,Tarjeta de Crédito,0
+CLI-0430,Salud & Pharma,7,17,Básico,Tarjeta de Crédito,0
+CLI-0431,Manufactura Avanzada,13,38,Premium,Transferencia Bancaria (ACH),0
+CLI-0432,Fintech & Banca,8,27,Básico,PayPal Business,1
+CLI-0433,Entretenimiento & Medios,3,15,Premium,Transferencia Bancaria (ACH),0
+CLI-0434,Retail y Comercio,11,17,Básico,PayPal Business,0
+CLI-0435,Fintech & Banca,12,29,Básico,Tarjeta de Crédito,0
+CLI-0436,Retail y Comercio,8,17,Premium,Transferencia Bancaria (ACH),0
+CLI-0437,Fintech & Banca,6,43,Básico,PayPal Business,1
+CLI-0438,Salud & Pharma,31,11,Básico,Transferencia Bancaria (ACH),0
+CLI-0439,Educación / EdTech,19,14,Básico,PayPal Business,0
+CLI-0440,Salud & Pharma,31,27,Básico,PayPal Business,0
+CLI-0441,Fintech & Banca,3,42,Premium,Transferencia Bancaria (ACH),0
+CLI-0442,Entretenimiento & Medios,6,17,Premium,Transferencia Bancaria (ACH),0
+CLI-0443,Retail y Comercio,10,10,Premium,Tarjeta de Crédito,0
+CLI-0444,Fintech & Banca,48,43,Básico,Transferencia Bancaria (ACH),0
+CLI-0445,Fintech & Banca,48,52,Premium,Transferencia Bancaria (ACH),0
+CLI-0446,Educación / EdTech,14,13,Premium,Transferencia Bancaria (ACH),0
+CLI-0447,Educación / EdTech,32,5,Premium,Transferencia Bancaria (ACH),1
+CLI-0448,Retail y Comercio,26,9,Premium,Tarjeta de Crédito,0
+CLI-0449,Entretenimiento & Medios,25,22,Básico,Transferencia Bancaria (ACH),1
+CLI-0450,Fintech & Banca,14,36,Básico,PayPal Business,0
+CLI-0451,Logística y Distribución,8,7,Premium,Tarjeta de Crédito,0
+CLI-0452,Fintech & Banca,9,20,Básico,Tarjeta de Crédito,0
+CLI-0453,Fintech & Banca,6,24,Básico,Tarjeta de Crédito,0
+CLI-0454,Manufactura Avanzada,15,32,Premium,Tarjeta de Crédito,0
+CLI-0455,Entretenimiento & Medios,16,5,Premium,Tarjeta de Crédito,0
+CLI-0456,Fintech & Banca,13,31,Básico,PayPal Business,1
+CLI-0457,Entretenimiento & Medios,3,8,Básico,Tarjeta de Crédito,0
+CLI-0458,Manufactura Avanzada,15,21,Básico,Transferencia Bancaria (ACH),0
+CLI-0459,Logística y Distribución,16,19,Premium,PayPal Business,0
+CLI-0460,Fintech & Banca,46,46,Básico,Tarjeta de Crédito,0
+CLI-0461,Entretenimiento & Medios,6,13,Premium,Tarjeta de Crédito,0
+CLI-0462,Logística y Distribución,3,17,Premium,Tarjeta de Crédito,1
+CLI-0463,Fintech & Banca,9,39,Básico,PayPal Business,0
+CLI-0464,Logística y Distribución,7,9,Básico,PayPal Business,1
+CLI-0465,Salud & Pharma,25,5,Básico,Transferencia Bancaria (ACH),0
+CLI-0466,Logística y Distribución,20,17,Básico,Transferencia Bancaria (ACH),0
+CLI-0467,Manufactura Avanzada,10,38,Premium,Tarjeta de Crédito,0
+CLI-0468,Entretenimiento & Medios,5,14,Básico,PayPal Business,0
+CLI-0469,Salud & Pharma,20,15,Básico,PayPal Business,0
+CLI-0470,Logística y Distribución,48,9,Básico,Transferencia Bancaria (ACH),0
+CLI-0471,Salud & Pharma,25,11,Básico,PayPal Business,1
+CLI-0472,Educación / EdTech,45,15,Básico,Transferencia Bancaria (ACH),1
+CLI-0473,Logística y Distribución,26,13,Básico,Transferencia Bancaria (ACH),0
+CLI-0474,Logística y Distribución,16,17,Básico,Tarjeta de Crédito,0
+CLI-0475,Educación / EdTech,28,13,Básico,PayPal Business,0
+CLI-0476,Retail y Comercio,24,19,Básico,Transferencia Bancaria (ACH),0
+CLI-0477,Manufactura Avanzada,27,61,Básico,Transferencia Bancaria (ACH),0
+CLI-0478,Manufactura Avanzada,16,30,Básico,Transferencia Bancaria (ACH),1
+CLI-0479,Educación / EdTech,15,18,Premium,Tarjeta de Crédito,0
+CLI-0480,Educación / EdTech,6,10,Básico,PayPal Business,0
+CLI-0481,Fintech & Banca,3,54,Básico,Transferencia Bancaria (ACH),0
+CLI-0482,Fintech & Banca,6,59,Básico,Transferencia Bancaria (ACH),0
+CLI-0483,Salud & Pharma,15,16,Básico,Transferencia Bancaria (ACH),0
+CLI-0484,Logística y Distribución,19,14,Básico,Transferencia Bancaria (ACH),0
+CLI-0485,Educación / EdTech,10,20,Premium,Transferencia Bancaria (ACH),0
+CLI-0486,Fintech & Banca,4,53,Básico,PayPal Business,0
+CLI-0487,Logística y Distribución,21,5,Básico,Tarjeta de Crédito,0
+CLI-0488,Logística y Distribución,4,18,Premium,Transferencia Bancaria (ACH),1
+CLI-0489,Educación / EdTech,5,8,Básico,Transferencia Bancaria (ACH),0
+CLI-0490,Manufactura Avanzada,4,31,Básico,Tarjeta de Crédito,0
+CLI-0491,Manufactura Avanzada,3,32,Básico,PayPal Business,1
+CLI-0492,Logística y Distribución,32,19,Premium,Transferencia Bancaria (ACH),0
+CLI-0493,Educación / EdTech,13,7,Premium,Transferencia Bancaria (ACH),0
+CLI-0494,Educación / EdTech,48,7,Premium,Tarjeta de Crédito,0
+CLI-0495,Manufactura Avanzada,14,36,Básico,Transferencia Bancaria (ACH),0
+CLI-0496,Manufactura Avanzada,14,60,Premium,PayPal Business,0
+CLI-0497,Educación / EdTech,5,9,Básico,Transferencia Bancaria (ACH),1
+CLI-0498,Logística y Distribución,4,18,Básico,Transferencia Bancaria (ACH),0
+CLI-0499,Retail y Comercio,22,22,Premium,Tarjeta de Crédito,0
+CLI-0500,Manufactura Avanzada,39,25,Básico,Tarjeta de Crédito,0
+CLI-0501,Entretenimiento & Medios,10,15,Premium,PayPal Business,0
+CLI-0502,Entretenimiento & Medios,13,19,Básico,PayPal Business,0
+CLI-0503,Educación / EdTech,4,11,Premium,PayPal Business,1
+CLI-0504,Educación / EdTech,24,17,Premium,PayPal Business,0
+CLI-0505,Fintech & Banca,3,27,Básico,Transferencia Bancaria (ACH),0
+CLI-0506,Retail y Comercio,4,9,Premium,Transferencia Bancaria (ACH),1
+CLI-0507,Fintech & Banca,14,29,Básico,Tarjeta de Crédito,0
+CLI-0508,Salud & Pharma,15,5,Básico,Tarjeta de Crédito,1
+CLI-0509,Educación / EdTech,38,16,Premium,Tarjeta de Crédito,0
+CLI-0510,Manufactura Avanzada,6,39,Premium,Tarjeta de Crédito,0
+CLI-0511,Salud & Pharma,4,12,Premium,Transferencia Bancaria (ACH),1
+CLI-0512,Retail y Comercio,31,21,Premium,PayPal Business,0
+CLI-0513,Manufactura Avanzada,24,33,Básico,PayPal Business,1
+CLI-0514,Logística y Distribución,5,13,Premium,Tarjeta de Crédito,1
+CLI-0515,Manufactura Avanzada,8,40,Premium,Tarjeta de Crédito,0
+CLI-0516,Retail y Comercio,4,16,Premium,Transferencia Bancaria (ACH),0
+CLI-0517,Salud & Pharma,38,29,Premium,PayPal Business,0
+CLI-0518,Retail y Comercio,5,13,Básico,Tarjeta de Crédito,0
+CLI-0519,Logística y Distribución,10,12,Básico,Transferencia Bancaria (ACH),0
+CLI-0520,Retail y Comercio,3,9,Básico,PayPal Business,0
+CLI-0521,Salud & Pharma,48,18,Básico,PayPal Business,0
+CLI-0522,Logística y Distribución,8,15,Básico,Tarjeta de Crédito,0
+CLI-0523,Manufactura Avanzada,11,43,Básico,Tarjeta de Crédito,1
+CLI-0524,Retail y Comercio,16,10,Premium,Tarjeta de Crédito,0
+CLI-0525,Entretenimiento & Medios,5,10,Premium,Transferencia Bancaria (ACH),1
+CLI-0526,Logística y Distribución,3,14,Premium,Tarjeta de Crédito,0
+CLI-0527,Salud & Pharma,48,11,Básico,Tarjeta de Crédito,1
+CLI-0528,Manufactura Avanzada,8,35,Básico,PayPal Business,0
+CLI-0529,Manufactura Avanzada,19,40,Premium,PayPal Business,0
+CLI-0530,Logística y Distribución,26,10,Básico,Transferencia Bancaria (ACH),0
+CLI-0531,Logística y Distribución,8,17,Básico,Transferencia Bancaria (ACH),1
+CLI-0532,Logística y Distribución,4,28,Premium,Transferencia Bancaria (ACH),0
+CLI-0533,Manufactura Avanzada,11,33,Básico,Transferencia Bancaria (ACH),0
+CLI-0534,Salud & Pharma,27,7,Premium,Transferencia Bancaria (ACH),1
+CLI-0535,Logística y Distribución,23,14,Básico,Transferencia Bancaria (ACH),1
+CLI-0536,Manufactura Avanzada,3,37,Básico,Transferencia Bancaria (ACH),0
+CLI-0537,Retail y Comercio,22,15,Básico,Tarjeta de Crédito,0
+CLI-0538,Logística y Distribución,3,8,Básico,Tarjeta de Crédito,1
+CLI-0539,Salud & Pharma,48,9,Básico,PayPal Business,1
+CLI-0540,Entretenimiento & Medios,11,14,Premium,Transferencia Bancaria (ACH),0
+CLI-0541,Fintech & Banca,4,25,Básico,Transferencia Bancaria (ACH),0
+CLI-0542,Logística y Distribución,21,14,Básico,PayPal Business,0
+CLI-0543,Manufactura Avanzada,9,29,Premium,PayPal Business,0
+CLI-0544,Entretenimiento & Medios,34,5,Premium,Transferencia Bancaria (ACH),0
+CLI-0545,Entretenimiento & Medios,24,21,Básico,PayPal Business,0
+CLI-0546,Fintech & Banca,7,26,Premium,Tarjeta de Crédito,0
+CLI-0547,Fintech & Banca,3,38,Básico,Tarjeta de Crédito,0
+CLI-0548,Entretenimiento & Medios,18,20,Premium,PayPal Business,0
+CLI-0549,Entretenimiento & Medios,17,11,Básico,PayPal Business,0
+CLI-0550,Entretenimiento & Medios,5,16,Premium,PayPal Business,0
+CLI-0551,Salud & Pharma,13,13,Básico,PayPal Business,0
+CLI-0552,Manufactura Avanzada,20,41,Básico,PayPal Business,0
+CLI-0553,Manufactura Avanzada,4,30,Básico,Transferencia Bancaria (ACH),0
+CLI-0554,Educación / EdTech,9,22,Premium,Transferencia Bancaria (ACH),0
+CLI-0555,Logística y Distribución,18,12,Básico,Transferencia Bancaria (ACH),0
+CLI-0556,Retail y Comercio,18,12,Premium,Transferencia Bancaria (ACH),0
+CLI-0557,Retail y Comercio,7,18,Básico,PayPal Business,1
+CLI-0558,Salud & Pharma,6,22,Básico,Transferencia Bancaria (ACH),1
+CLI-0559,Retail y Comercio,16,18,Básico,Transferencia Bancaria (ACH),1
+CLI-0560,Entretenimiento & Medios,3,22,Premium,Tarjeta de Crédito,0
+CLI-0561,Manufactura Avanzada,25,57,Premium,Transferencia Bancaria (ACH),0
+CLI-0562,Manufactura Avanzada,26,61,Premium,PayPal Business,0
+CLI-0563,Salud & Pharma,4,18,Básico,PayPal Business,0
+CLI-0564,Retail y Comercio,9,13,Básico,PayPal Business,0
+CLI-0565,Fintech & Banca,11,46,Básico,Tarjeta de Crédito,0
+CLI-0566,Entretenimiento & Medios,4,15,Básico,Transferencia Bancaria (ACH),0
+CLI-0567,Logística y Distribución,33,6,Premium,PayPal Business,0
+CLI-0568,Logística y Distribución,30,20,Premium,Tarjeta de Crédito,0
+CLI-0569,Salud & Pharma,38,20,Básico,PayPal Business,0
+CLI-0570,Fintech & Banca,28,30,Premium,Transferencia Bancaria (ACH),0
+CLI-0571,Retail y Comercio,23,8,Básico,Transferencia Bancaria (ACH),0
+CLI-0572,Retail y Comercio,48,18,Premium,PayPal Business,0
+CLI-0573,Entretenimiento & Medios,3,14,Premium,PayPal Business,0
+CLI-0574,Logística y Distribución,26,14,Básico,Transferencia Bancaria (ACH),1
+CLI-0575,Educación / EdTech,12,17,Básico,Transferencia Bancaria (ACH),0
+CLI-0576,Educación / EdTech,15,19,Básico,PayPal Business,0
+CLI-0577,Manufactura Avanzada,7,61,Premium,Tarjeta de Crédito,0
+CLI-0578,Manufactura Avanzada,17,47,Premium,PayPal Business,0
+CLI-0579,Retail y Comercio,5,13,Básico,Transferencia Bancaria (ACH),0
+CLI-0580,Educación / EdTech,21,14,Premium,PayPal Business,0
+CLI-0581,Manufactura Avanzada,4,55,Básico,PayPal Business,0
+CLI-0582,Retail y Comercio,14,12,Premium,PayPal Business,0
+CLI-0583,Entretenimiento & Medios,16,11,Premium,Transferencia Bancaria (ACH),0
+CLI-0584,Educación / EdTech,14,8,Básico,PayPal Business,0
+CLI-0585,Educación / EdTech,23,6,Básico,PayPal Business,0
+CLI-0586,Logística y Distribución,8,8,Premium,PayPal Business,0
+CLI-0587,Manufactura Avanzada,48,30,Premium,Transferencia Bancaria (ACH),1
+CLI-0588,Retail y Comercio,33,5,Básico,Tarjeta de Crédito,0
+CLI-0589,Retail y Comercio,9,25,Básico,Transferencia Bancaria (ACH),1
+CLI-0590,Fintech & Banca,16,30,Básico,Tarjeta de Crédito,1
+CLI-0591,Entretenimiento & Medios,25,16,Básico,Tarjeta de Crédito,0
+CLI-0592,Manufactura Avanzada,17,29,Básico,PayPal Business,0
+CLI-0593,Logística y Distribución,15,26,Básico,PayPal Business,0
+CLI-0594,Entretenimiento & Medios,18,26,Premium,PayPal Business,0
+CLI-0595,Salud & Pharma,7,14,Básico,Tarjeta de Crédito,1
+CLI-0596,Entretenimiento & Medios,3,22,Básico,PayPal Business,0
+CLI-0597,Entretenimiento & Medios,24,20,Básico,Tarjeta de Crédito,0
+CLI-0598,Logística y Distribución,11,19,Básico,Transferencia Bancaria (ACH),0
+CLI-0599,Educación / EdTech,8,9,Básico,Tarjeta de Crédito,0
+CLI-0600,Manufactura Avanzada,15,38,Premium,Transferencia Bancaria (ACH),0
+CLI-0601,Entretenimiento & Medios,48,16,Básico,Transferencia Bancaria (ACH),0
+CLI-0602,Fintech & Banca,17,46,Premium,Transferencia Bancaria (ACH),0
+CLI-0603,Entretenimiento & Medios,4,21,Básico,Transferencia Bancaria (ACH),0
+CLI-0604,Fintech & Banca,14,36,Básico,Transferencia Bancaria (ACH),0
+CLI-0605,Manufactura Avanzada,5,23,Básico,Transferencia Bancaria (ACH),0
+CLI-0606,Retail y Comercio,3,7,Premium,Transferencia Bancaria (ACH),0
+CLI-0607,Salud & Pharma,7,5,Premium,Tarjeta de Crédito,0
+CLI-0608,Entretenimiento & Medios,7,16,Básico,PayPal Business,1
+CLI-0609,Retail y Comercio,31,12,Premium,Tarjeta de Crédito,0
+CLI-0610,Entretenimiento & Medios,11,17,Básico,Transferencia Bancaria (ACH),0
+CLI-0611,Logística y Distribución,5,16,Básico,PayPal Business,0
+CLI-0612,Entretenimiento & Medios,11,12,Premium,Tarjeta de Crédito,0
+CLI-0613,Entretenimiento & Medios,23,17,Básico,Tarjeta de Crédito,0
+CLI-0614,Manufactura Avanzada,22,26,Premium,Tarjeta de Crédito,0
+CLI-0615,Logística y Distribución,46,9,Básico,Tarjeta de Crédito,0
+CLI-0616,Retail y Comercio,36,9,Básico,Tarjeta de Crédito,0
+CLI-0617,Salud & Pharma,7,13,Premium,PayPal Business,0
+CLI-0618,Salud & Pharma,3,24,Básico,Tarjeta de Crédito,1
+CLI-0619,Logística y Distribución,3,15,Básico,Transferencia Bancaria (ACH),0
+CLI-0620,Entretenimiento & Medios,8,8,Premium,PayPal Business,0
+CLI-0621,Entretenimiento & Medios,3,16,Básico,Tarjeta de Crédito,1
+CLI-0622,Retail y Comercio,41,15,Básico,Transferencia Bancaria (ACH),0
+CLI-0623,Fintech & Banca,10,50,Premium,PayPal Business,0
+CLI-0624,Manufactura Avanzada,7,28,Premium,Tarjeta de Crédito,0
+CLI-0625,Logística y Distribución,6,7,Premium,Transferencia Bancaria (ACH),0
+CLI-0626,Fintech & Banca,16,68,Básico,PayPal Business,0
+CLI-0627,Manufactura Avanzada,4,34,Básico,PayPal Business,1
+CLI-0628,Entretenimiento & Medios,29,11,Básico,Transferencia Bancaria (ACH),0
+CLI-0629,Logística y Distribución,13,13,Premium,Tarjeta de Crédito,0
+CLI-0630,Educación / EdTech,13,15,Básico,PayPal Business,0
+CLI-0631,Logística y Distribución,11,7,Premium,Transferencia Bancaria (ACH),0
+CLI-0632,Logística y Distribución,29,14,Premium,PayPal Business,0
+CLI-0633,Fintech & Banca,11,61,Básico,PayPal Business,1
+CLI-0634,Salud & Pharma,3,8,Básico,Tarjeta de Crédito,0
+CLI-0635,Fintech & Banca,25,32,Premium,PayPal Business,0
+CLI-0636,Educación / EdTech,6,14,Básico,PayPal Business,1
+CLI-0637,Retail y Comercio,5,21,Básico,Tarjeta de Crédito,0
+CLI-0638,Manufactura Avanzada,6,30,Premium,PayPal Business,0
+CLI-0639,Manufactura Avanzada,32,35,Básico,PayPal Business,1
+CLI-0640,Entretenimiento & Medios,48,18,Premium,Transferencia Bancaria (ACH),1
+CLI-0641,Salud & Pharma,3,14,Premium,Transferencia Bancaria (ACH),1
+CLI-0642,Logística y Distribución,13,10,Básico,Transferencia Bancaria (ACH),0
+CLI-0643,Retail y Comercio,4,21,Básico,Tarjeta de Crédito,0
+CLI-0644,Educación / EdTech,23,18,Premium,Tarjeta de Crédito,0
+CLI-0645,Educación / EdTech,6,5,Premium,Transferencia Bancaria (ACH),1
+CLI-0646,Retail y Comercio,15,16,Básico,PayPal Business,0
+CLI-0647,Educación / EdTech,25,19,Básico,Tarjeta de Crédito,0
+CLI-0648,Educación / EdTech,5,13,Premium,Transferencia Bancaria (ACH),0
+CLI-0649,Salud & Pharma,25,20,Premium,PayPal Business,0
+CLI-0650,Fintech & Banca,7,34,Premium,Tarjeta de Crédito,0
+CLI-0651,Salud & Pharma,5,11,Premium,Tarjeta de Crédito,1
+CLI-0652,Logística y Distribución,17,11,Básico,Tarjeta de Crédito,0
+CLI-0653,Retail y Comercio,11,10,Premium,Transferencia Bancaria (ACH),0
+CLI-0654,Entretenimiento & Medios,25,16,Básico,PayPal Business,0
+CLI-0655,Logística y Distribución,48,16,Premium,PayPal Business,0
+CLI-0656,Retail y Comercio,17,14,Básico,Tarjeta de Crédito,0
+CLI-0657,Retail y Comercio,32,7,Básico,Transferencia Bancaria (ACH),1
+CLI-0658,Retail y Comercio,14,13,Básico,Transferencia Bancaria (ACH),0
+CLI-0659,Educación / EdTech,20,10,Premium,Transferencia Bancaria (ACH),0
+CLI-0660,Salud & Pharma,26,18,Básico,Transferencia Bancaria (ACH),0
+CLI-0661,Salud & Pharma,20,13,Premium,PayPal Business,0
+CLI-0662,Entretenimiento & Medios,11,5,Básico,PayPal Business,1
+CLI-0663,Logística y Distribución,12,12,Básico,PayPal Business,0
+CLI-0664,Salud & Pharma,20,20,Premium,PayPal Business,0
+CLI-0665,Fintech & Banca,4,33,Básico,PayPal Business,1
+CLI-0666,Logística y Distribución,11,12,Premium,Tarjeta de Crédito,0
+CLI-0667,Retail y Comercio,17,5,Premium,Transferencia Bancaria (ACH),0
+CLI-0668,Educación / EdTech,11,22,Premium,Transferencia Bancaria (ACH),0
+CLI-0669,Salud & Pharma,17,17,Básico,Transferencia Bancaria (ACH),0
+CLI-0670,Educación / EdTech,19,10,Básico,Transferencia Bancaria (ACH),0
+CLI-0671,Salud & Pharma,5,12,Premium,Transferencia Bancaria (ACH),0
+CLI-0672,Entretenimiento & Medios,7,18,Básico,Tarjeta de Crédito,1
+CLI-0673,Educación / EdTech,19,5,Básico,Transferencia Bancaria (ACH),0
+CLI-0674,Entretenimiento & Medios,3,15,Básico,PayPal Business,0
+CLI-0675,Logística y Distribución,17,19,Premium,Tarjeta de Crédito,0
+CLI-0676,Educación / EdTech,7,19,Premium,Transferencia Bancaria (ACH),1
+CLI-0677,Logística y Distribución,18,9,Básico,Tarjeta de Crédito,0
+CLI-0678,Retail y Comercio,11,15,Premium,Transferencia Bancaria (ACH),0
+CLI-0679,Manufactura Avanzada,14,43,Básico,Tarjeta de Crédito,0
+CLI-0680,Educación / EdTech,10,14,Básico,Transferencia Bancaria (ACH),0
+CLI-0681,Retail y Comercio,21,13,Premium,Transferencia Bancaria (ACH),0
+CLI-0682,Manufactura Avanzada,7,45,Premium,Tarjeta de Crédito,0
+CLI-0683,Salud & Pharma,22,20,Básico,Transferencia Bancaria (ACH),0
+CLI-0684,Fintech & Banca,31,33,Básico,Tarjeta de Crédito,1
+CLI-0685,Fintech & Banca,20,29,Básico,Transferencia Bancaria (ACH),0
+CLI-0686,Manufactura Avanzada,3,41,Básico,Tarjeta de Crédito,1
+CLI-0687,Retail y Comercio,8,5,Básico,PayPal Business,0
+CLI-0688,Manufactura Avanzada,22,49,Básico,Transferencia Bancaria (ACH),0
+CLI-0689,Salud & Pharma,35,17,Básico,Tarjeta de Crédito,1
+CLI-0690,Entretenimiento & Medios,34,20,Básico,Tarjeta de Crédito,0
+CLI-0691,Educación / EdTech,4,19,Básico,Transferencia Bancaria (ACH),0
+CLI-0692,Entretenimiento & Medios,15,11,Premium,PayPal Business,0
+CLI-0693,Retail y Comercio,30,10,Premium,PayPal Business,0
+CLI-0694,Logística y Distribución,15,15,Básico,PayPal Business,0
+CLI-0695,Retail y Comercio,4,16,Premium,Tarjeta de Crédito,0
+CLI-0696,Educación / EdTech,32,18,Básico,PayPal Business,1
+CLI-0697,Retail y Comercio,13,5,Básico,PayPal Business,1
+CLI-0698,Fintech & Banca,23,31,Básico,Tarjeta de Crédito,0
+CLI-0699,Salud & Pharma,34,27,Básico,Tarjeta de Crédito,0
+CLI-0700,Manufactura Avanzada,15,26,Premium,Transferencia Bancaria (ACH),0
+CLI-0701,Manufactura Avanzada,6,28,Básico,Tarjeta de Crédito,0
+CLI-0702,Logística y Distribución,12,15,Premium,Tarjeta de Crédito,0
+CLI-0703,Educación / EdTech,45,23,Básico,PayPal Business,0
+CLI-0704,Salud & Pharma,17,18,Básico,Transferencia Bancaria (ACH),0
+CLI-0705,Logística y Distribución,7,12,Básico,Tarjeta de Crédito,0
+CLI-0706,Educación / EdTech,5,5,Básico,Tarjeta de Crédito,1
+CLI-0707,Educación / EdTech,48,13,Básico,PayPal Business,0
+CLI-0708,Entretenimiento & Medios,16,5,Básico,PayPal Business,0
+CLI-0709,Fintech & Banca,6,37,Básico,Tarjeta de Crédito,0
+CLI-0710,Entretenimiento & Medios,6,15,Básico,Tarjeta de Crédito,0
+CLI-0711,Manufactura Avanzada,4,53,Básico,Tarjeta de Crédito,1
+CLI-0712,Fintech & Banca,13,33,Básico,Transferencia Bancaria (ACH),0
+CLI-0713,Fintech & Banca,40,30,Básico,Transferencia Bancaria (ACH),0
+CLI-0714,Manufactura Avanzada,4,37,Básico,Transferencia Bancaria (ACH),0
+CLI-0715,Retail y Comercio,12,14,Premium,Tarjeta de Crédito,0
+CLI-0716,Manufactura Avanzada,48,52,Básico,Transferencia Bancaria (ACH),1
+CLI-0717,Retail y Comercio,7,6,Básico,PayPal Business,0
+CLI-0718,Manufactura Avanzada,36,17,Premium,PayPal Business,0
+CLI-0719,Manufactura Avanzada,16,51,Premium,Tarjeta de Crédito,0
+CLI-0720,Manufactura Avanzada,27,33,Básico,PayPal Business,0
+CLI-0721,Retail y Comercio,17,15,Premium,PayPal Business,1
+CLI-0722,Entretenimiento & Medios,4,11,Básico,Tarjeta de Crédito,1
+CLI-0723,Educación / EdTech,11,9,Básico,PayPal Business,1
+CLI-0724,Fintech & Banca,22,36,Básico,PayPal Business,0
+CLI-0725,Educación / EdTech,4,18,Premium,Tarjeta de Crédito,0
+CLI-0726,Educación / EdTech,18,13,Básico,PayPal Business,0
+CLI-0727,Retail y Comercio,15,16,Premium,Transferencia Bancaria (ACH),0
+CLI-0728,Entretenimiento & Medios,21,19,Básico,PayPal Business,0
+CLI-0729,Salud & Pharma,35,15,Básico,Tarjeta de Crédito,0
+CLI-0730,Fintech & Banca,3,31,Básico,Transferencia Bancaria (ACH),1
+CLI-0731,Salud & Pharma,7,31,Básico,Tarjeta de Crédito,0
+CLI-0732,Fintech & Banca,4,34,Básico,Transferencia Bancaria (ACH),0
+CLI-0733,Retail y Comercio,8,20,Premium,PayPal Business,0
+CLI-0734,Retail y Comercio,19,22,Básico,Transferencia Bancaria (ACH),1
+CLI-0735,Retail y Comercio,18,9,Premium,PayPal Business,0
+CLI-0736,Retail y Comercio,11,8,Premium,Tarjeta de Crédito,0
+CLI-0737,Retail y Comercio,27,5,Básico,Transferencia Bancaria (ACH),1
+CLI-0738,Logística y Distribución,9,10,Básico,Tarjeta de Crédito,0
+CLI-0739,Salud & Pharma,20,9,Básico,PayPal Business,0
+CLI-0740,Entretenimiento & Medios,10,23,Básico,Tarjeta de Crédito,0
+CLI-0741,Manufactura Avanzada,33,28,Básico,PayPal Business,0
+CLI-0742,Entretenimiento & Medios,17,12,Básico,Tarjeta de Crédito,0
+CLI-0743,Manufactura Avanzada,8,38,Básico,Transferencia Bancaria (ACH),0
+CLI-0744,Retail y Comercio,18,10,Básico,Transferencia Bancaria (ACH),1
+CLI-0745,Salud & Pharma,9,26,Básico,PayPal Business,0
+CLI-0746,Fintech & Banca,12,34,Básico,Tarjeta de Crédito,0
+CLI-0747,Logística y Distribución,12,14,Básico,Tarjeta de Crédito,0
+CLI-0748,Manufactura Avanzada,3,44,Básico,PayPal Business,0
+CLI-0749,Retail y Comercio,5,5,Premium,PayPal Business,1
+CLI-0750,Logística y Distribución,4,12,Premium,Transferencia Bancaria (ACH),1
+CLI-0751,Retail y Comercio,8,16,Premium,PayPal Business,0
+CLI-0752,Salud & Pharma,48,20,Básico,Transferencia Bancaria (ACH),1
+CLI-0753,Logística y Distribución,48,5,Básico,PayPal Business,0
+CLI-0754,Retail y Comercio,13,6,Básico,PayPal Business,1
+CLI-0755,Salud & Pharma,14,24,Premium,PayPal Business,0
+CLI-0756,Manufactura Avanzada,11,43,Básico,Transferencia Bancaria (ACH),0
+CLI-0757,Manufactura Avanzada,7,24,Premium,PayPal Business,0
+CLI-0758,Fintech & Banca,14,29,Básico,Tarjeta de Crédito,0
+CLI-0759,Entretenimiento & Medios,15,13,Básico,Transferencia Bancaria (ACH),0
+CLI-0760,Retail y Comercio,12,8,Básico,Tarjeta de Crédito,1
+CLI-0761,Manufactura Avanzada,48,43,Básico,Transferencia Bancaria (ACH),0
+CLI-0762,Logística y Distribución,16,20,Básico,Tarjeta de Crédito,1
+CLI-0763,Retail y Comercio,10,14,Básico,Transferencia Bancaria (ACH),0
+CLI-0764,Fintech & Banca,6,33,Premium,PayPal Business,0
+CLI-0765,Fintech & Banca,36,43,Premium,Transferencia Bancaria (ACH),0
+CLI-0766,Retail y Comercio,4,25,Premium,Tarjeta de Crédito,0
+CLI-0767,Manufactura Avanzada,4,32,Premium,PayPal Business,0
+CLI-0768,Manufactura Avanzada,43,50,Básico,Transferencia Bancaria (ACH),0
+CLI-0769,Manufactura Avanzada,11,39,Premium,PayPal Business,0
+CLI-0770,Manufactura Avanzada,15,44,Básico,Transferencia Bancaria (ACH),0
+CLI-0771,Logística y Distribución,7,18,Básico,Transferencia Bancaria (ACH),0
+CLI-0772,Logística y Distribución,13,10,Básico,Transferencia Bancaria (ACH),0
+CLI-0773,Entretenimiento & Medios,15,22,Premium,PayPal Business,0
+CLI-0774,Educación / EdTech,14,12,Premium,Tarjeta de Crédito,0
+CLI-0775,Retail y Comercio,6,21,Premium,PayPal Business,0
+CLI-0776,Entretenimiento & Medios,3,13,Premium,PayPal Business,0
+CLI-0777,Educación / EdTech,11,28,Premium,Tarjeta de Crédito,0
+CLI-0778,Fintech & Banca,3,42,Básico,PayPal Business,0
+CLI-0779,Manufactura Avanzada,19,51,Básico,Transferencia Bancaria (ACH),1
+CLI-0780,Educación / EdTech,7,21,Básico,Tarjeta de Crédito,1
+CLI-0781,Educación / EdTech,25,9,Premium,Tarjeta de Crédito,0
+CLI-0782,Salud & Pharma,3,10,Premium,Transferencia Bancaria (ACH),0
+CLI-0783,Salud & Pharma,18,11,Básico,PayPal Business,0
+CLI-0784,Manufactura Avanzada,21,50,Premium,PayPal Business,0
+CLI-0785,Entretenimiento & Medios,21,17,Premium,PayPal Business,0
+CLI-0786,Educación / EdTech,18,11,Premium,Tarjeta de Crédito,0
+CLI-0787,Manufactura Avanzada,29,30,Básico,Transferencia Bancaria (ACH),0
+CLI-0788,Salud & Pharma,4,16,Básico,PayPal Business,1
+CLI-0789,Fintech & Banca,10,37,Básico,Transferencia Bancaria (ACH),0
+CLI-0790,Retail y Comercio,26,11,Premium,PayPal Business,0
+CLI-0791,Entretenimiento & Medios,4,15,Básico,PayPal Business,0
+CLI-0792,Entretenimiento & Medios,4,18,Básico,PayPal Business,1
+CLI-0793,Salud & Pharma,25,13,Básico,Tarjeta de Crédito,0
+CLI-0794,Retail y Comercio,10,15,Básico,PayPal Business,0
+CLI-0795,Retail y Comercio,6,20,Premium,Transferencia Bancaria (ACH),0
+CLI-0796,Educación / EdTech,10,11,Premium,PayPal Business,0
+CLI-0797,Salud & Pharma,8,5,Básico,Transferencia Bancaria (ACH),0
+CLI-0798,Entretenimiento & Medios,48,14,Básico,PayPal Business,0
+CLI-0799,Logística y Distribución,9,9,Premium,PayPal Business,0
+CLI-0800,Salud & Pharma,12,17,Básico,Transferencia Bancaria (ACH),0
+CLI-0801,Entretenimiento & Medios,15,11,Premium,Tarjeta de Crédito,0
+CLI-0802,Retail y Comercio,6,16,Premium,PayPal Business,0
+CLI-0803,Salud & Pharma,27,16,Básico,PayPal Business,0
+CLI-0804,Salud & Pharma,5,23,Premium,Tarjeta de Crédito,1
+CLI-0805,Manufactura Avanzada,7,17,Básico,Transferencia Bancaria (ACH),0
+CLI-0806,Educación / EdTech,16,14,Básico,Transferencia Bancaria (ACH),1
+CLI-0807,Manufactura Avanzada,22,32,Básico,PayPal Business,0
+CLI-0808,Fintech & Banca,20,40,Básico,Tarjeta de Crédito,0
+CLI-0809,Manufactura Avanzada,28,29,Básico,Tarjeta de Crédito,0
+CLI-0810,Logística y Distribución,9,21,Básico,Tarjeta de Crédito,0
+CLI-0811,Educación / EdTech,28,21,Premium,Transferencia Bancaria (ACH),0
+CLI-0812,Entretenimiento & Medios,10,11,Premium,Tarjeta de Crédito,1
+CLI-0813,Manufactura Avanzada,9,39,Básico,Tarjeta de Crédito,0
+CLI-0814,Salud & Pharma,17,26,Premium,Transferencia Bancaria (ACH),0
+CLI-0815,Entretenimiento & Medios,3,18,Premium,Transferencia Bancaria (ACH),0
+CLI-0816,Educación / EdTech,48,10,Premium,Tarjeta de Crédito,0
+CLI-0817,Logística y Distribución,45,8,Básico,PayPal Business,0
+CLI-0818,Manufactura Avanzada,24,52,Básico,PayPal Business,0
+CLI-0819,Logística y Distribución,3,17,Básico,Tarjeta de Crédito,1
+CLI-0820,Entretenimiento & Medios,10,14,Básico,Tarjeta de Crédito,0
+CLI-0821,Logística y Distribución,6,6,Básico,Transferencia Bancaria (ACH),0
+CLI-0822,Fintech & Banca,23,23,Básico,PayPal Business,0
+CLI-0823,Retail y Comercio,27,12,Premium,Tarjeta de Crédito,1
+CLI-0824,Manufactura Avanzada,11,45,Premium,PayPal Business,0
+CLI-0825,Retail y Comercio,6,20,Básico,Transferencia Bancaria (ACH),0
+CLI-0826,Educación / EdTech,5,24,Premium,PayPal Business,0
+CLI-0827,Fintech & Banca,21,52,Básico,PayPal Business,0
+CLI-0828,Fintech & Banca,20,23,Básico,Tarjeta de Crédito,0
+CLI-0829,Educación / EdTech,33,9,Básico,Transferencia Bancaria (ACH),0
+CLI-0830,Educación / EdTech,4,6,Básico,Tarjeta de Crédito,1
+CLI-0831,Retail y Comercio,7,5,Básico,Transferencia Bancaria (ACH),0
+CLI-0832,Entretenimiento & Medios,4,8,Básico,Tarjeta de Crédito,1
+CLI-0833,Entretenimiento & Medios,12,19,Básico,PayPal Business,0
+CLI-0834,Entretenimiento & Medios,3,5,Básico,Transferencia Bancaria (ACH),1
+CLI-0835,Logística y Distribución,48,27,Básico,Transferencia Bancaria (ACH),0
+CLI-0836,Fintech & Banca,23,42,Premium,Tarjeta de Crédito,0
+CLI-0837,Fintech & Banca,13,37,Básico,Tarjeta de Crédito,0
+CLI-0838,Fintech & Banca,3,42,Básico,Transferencia Bancaria (ACH),0
+CLI-0839,Retail y Comercio,23,5,Básico,Transferencia Bancaria (ACH),0
+CLI-0840,Manufactura Avanzada,3,43,Básico,Tarjeta de Crédito,1
+CLI-0841,Retail y Comercio,17,19,Básico,PayPal Business,0
+CLI-0842,Educación / EdTech,10,19,Básico,Tarjeta de Crédito,0
+CLI-0843,Fintech & Banca,3,31,Básico,Transferencia Bancaria (ACH),0
+CLI-0844,Educación / EdTech,22,10,Básico,Transferencia Bancaria (ACH),0
+CLI-0845,Educación / EdTech,3,18,Básico,Transferencia Bancaria (ACH),1
+CLI-0846,Fintech & Banca,9,40,Básico,Tarjeta de Crédito,0
+CLI-0847,Salud & Pharma,6,17,Premium,Tarjeta de Crédito,0
+CLI-0848,Manufactura Avanzada,15,28,Básico,Transferencia Bancaria (ACH),0
+CLI-0849,Manufactura Avanzada,26,24,Premium,Transferencia Bancaria (ACH),0
+CLI-0850,Entretenimiento & Medios,7,24,Básico,PayPal Business,0
+CLI-0851,Entretenimiento & Medios,37,13,Premium,Tarjeta de Crédito,0
+CLI-0852,Manufactura Avanzada,20,17,Básico,Tarjeta de Crédito,0
+CLI-0853,Manufactura Avanzada,5,26,Premium,PayPal Business,0
+CLI-0854,Manufactura Avanzada,13,38,Básico,Tarjeta de Crédito,1
+CLI-0855,Manufactura Avanzada,12,33,Básico,PayPal Business,0
+CLI-0856,Manufactura Avanzada,26,42,Básico,Tarjeta de Crédito,1
+CLI-0857,Entretenimiento & Medios,14,11,Básico,PayPal Business,0
+CLI-0858,Educación / EdTech,11,14,Básico,Tarjeta de Crédito,0
+CLI-0859,Salud & Pharma,3,17,Básico,Tarjeta de Crédito,0
+CLI-0860,Salud & Pharma,48,17,Básico,Tarjeta de Crédito,0
+CLI-0861,Manufactura Avanzada,45,40,Básico,Transferencia Bancaria (ACH),0
+CLI-0862,Logística y Distribución,11,16,Básico,PayPal Business,0
+CLI-0863,Entretenimiento & Medios,4,15,Básico,Transferencia Bancaria (ACH),0
+CLI-0864,Salud & Pharma,25,15,Premium,Transferencia Bancaria (ACH),0
+CLI-0865,Educación / EdTech,43,15,Premium,Tarjeta de Crédito,0
+CLI-0866,Logística y Distribución,22,18,Básico,Transferencia Bancaria (ACH),0
+CLI-0867,Logística y Distribución,12,9,Básico,PayPal Business,0
+CLI-0868,Logística y Distribución,18,19,Básico,Transferencia Bancaria (ACH),1
+CLI-0869,Salud & Pharma,14,14,Básico,Tarjeta de Crédito,0
+CLI-0870,Entretenimiento & Medios,3,24,Básico,PayPal Business,0
+CLI-0871,Educación / EdTech,39,18,Básico,Transferencia Bancaria (ACH),0
+CLI-0872,Salud & Pharma,8,7,Premium,Transferencia Bancaria (ACH),0
+CLI-0873,Salud & Pharma,21,14,Básico,Transferencia Bancaria (ACH),1
+CLI-0874,Educación / EdTech,12,9,Premium,PayPal Business,1
+CLI-0875,Entretenimiento & Medios,4,10,Premium,Transferencia Bancaria (ACH),1
+CLI-0876,Manufactura Avanzada,48,21,Básico,Transferencia Bancaria (ACH),0
+CLI-0877,Educación / EdTech,23,6,Premium,Tarjeta de Crédito,0
+CLI-0878,Entretenimiento & Medios,38,5,Premium,Tarjeta de Crédito,0
+CLI-0879,Salud & Pharma,15,22,Básico,PayPal Business,0
+CLI-0880,Salud & Pharma,14,11,Básico,PayPal Business,0
+CLI-0881,Fintech & Banca,17,31,Premium,Tarjeta de Crédito,0
+CLI-0882,Fintech & Banca,4,32,Básico,Transferencia Bancaria (ACH),1
+CLI-0883,Educación / EdTech,6,16,Básico,Tarjeta de Crédito,1
+CLI-0884,Educación / EdTech,45,13,Básico,Transferencia Bancaria (ACH),0
+CLI-0885,Logística y Distribución,11,18,Premium,Tarjeta de Crédito,0
+CLI-0886,Logística y Distribución,7,30,Básico,PayPal Business,1
+CLI-0887,Manufactura Avanzada,34,56,Básico,PayPal Business,0
+CLI-0888,Logística y Distribución,12,12,Básico,Tarjeta de Crédito,0
+CLI-0889,Salud & Pharma,15,11,Premium,Transferencia Bancaria (ACH),0
+CLI-0890,Fintech & Banca,6,27,Básico,Tarjeta de Crédito,1
+CLI-0891,Retail y Comercio,4,15,Básico,Tarjeta de Crédito,0
+CLI-0892,Educación / EdTech,26,19,Premium,PayPal Business,0
+CLI-0893,Manufactura Avanzada,8,52,Premium,PayPal Business,0
+CLI-0894,Fintech & Banca,5,48,Premium,Transferencia Bancaria (ACH),0
+CLI-0895,Educación / EdTech,13,11,Básico,PayPal Business,0
+CLI-0896,Retail y Comercio,4,5,Premium,Transferencia Bancaria (ACH),1
+CLI-0897,Manufactura Avanzada,3,48,Básico,PayPal Business,0
+CLI-0898,Educación / EdTech,48,5,Básico,PayPal Business,0
+CLI-0899,Salud & Pharma,8,8,Básico,Tarjeta de Crédito,0
+CLI-0900,Educación / EdTech,21,10,Premium,PayPal Business,0
+CLI-0901,Manufactura Avanzada,6,54,Premium,Transferencia Bancaria (ACH),0
+CLI-0902,Salud & Pharma,10,19,Básico,Tarjeta de Crédito,0
+CLI-0903,Fintech & Banca,8,50,Básico,PayPal Business,0
+CLI-0904,Entretenimiento & Medios,9,18,Premium,Tarjeta de Crédito,0
+CLI-0905,Educación / EdTech,26,23,Premium,Tarjeta de Crédito,0
+CLI-0906,Logística y Distribución,4,5,Básico,PayPal Business,1
+CLI-0907,Salud & Pharma,20,17,Básico,PayPal Business,0
+CLI-0908,Salud & Pharma,45,11,Básico,Tarjeta de Crédito,0
+CLI-0909,Retail y Comercio,7,5,Premium,PayPal Business,1
+CLI-0910,Salud & Pharma,22,19,Básico,Transferencia Bancaria (ACH),1
+CLI-0911,Educación / EdTech,13,5,Premium,Tarjeta de Crédito,1
+CLI-0912,Salud & Pharma,27,15,Premium,PayPal Business,0
+CLI-0913,Logística y Distribución,20,19,Premium,Tarjeta de Crédito,0
+CLI-0914,Entretenimiento & Medios,21,14,Premium,PayPal Business,0
+CLI-0915,Manufactura Avanzada,7,33,Básico,Tarjeta de Crédito,0
+CLI-0916,Entretenimiento & Medios,8,18,Premium,Transferencia Bancaria (ACH),0
+CLI-0917,Logística y Distribución,30,21,Básico,Tarjeta de Crédito,0
+CLI-0918,Educación / EdTech,44,20,Básico,Tarjeta de Crédito,0
+CLI-0919,Entretenimiento & Medios,9,17,Premium,Transferencia Bancaria (ACH),0
+CLI-0920,Educación / EdTech,9,11,Básico,PayPal Business,0
+CLI-0921,Salud & Pharma,28,14,Básico,Tarjeta de Crédito,0
+CLI-0922,Entretenimiento & Medios,20,17,Premium,Transferencia Bancaria (ACH),0
+CLI-0923,Manufactura Avanzada,14,61,Premium,PayPal Business,0
+CLI-0924,Retail y Comercio,5,15,Premium,Transferencia Bancaria (ACH),0
+CLI-0925,Salud & Pharma,14,9,Premium,Transferencia Bancaria (ACH),1
+CLI-0926,Educación / EdTech,5,13,Básico,Transferencia Bancaria (ACH),0
+CLI-0927,Retail y Comercio,7,17,Premium,Tarjeta de Crédito,0
+CLI-0928,Salud & Pharma,7,19,Básico,Tarjeta de Crédito,0
+CLI-0929,Fintech & Banca,14,40,Básico,PayPal Business,1
+CLI-0930,Retail y Comercio,8,11,Básico,PayPal Business,0
+CLI-0931,Manufactura Avanzada,16,54,Básico,PayPal Business,0
+CLI-0932,Fintech & Banca,3,29,Premium,Tarjeta de Crédito,0
+CLI-0933,Salud & Pharma,7,25,Básico,PayPal Business,0
+CLI-0934,Salud & Pharma,3,11,Básico,PayPal Business,0
+CLI-0935,Educación / EdTech,43,23,Básico,Transferencia Bancaria (ACH),0
+CLI-0936,Entretenimiento & Medios,6,21,Básico,Transferencia Bancaria (ACH),0
+CLI-0937,Educación / EdTech,22,13,Básico,PayPal Business,0
+CLI-0938,Fintech & Banca,10,33,Premium,PayPal Business,0
+CLI-0939,Fintech & Banca,3,24,Premium,Tarjeta de Crédito,0
+CLI-0940,Salud & Pharma,4,15,Básico,Tarjeta de Crédito,0
+CLI-0941,Manufactura Avanzada,21,32,Básico,PayPal Business,0
+CLI-0942,Manufactura Avanzada,10,60,Básico,Tarjeta de Crédito,0
+CLI-0943,Logística y Distribución,6,5,Básico,PayPal Business,1
+CLI-0944,Logística y Distribución,17,14,Premium,Transferencia Bancaria (ACH),0
+CLI-0945,Educación / EdTech,15,14,Básico,Tarjeta de Crédito,1
+CLI-0946,Fintech & Banca,15,42,Básico,Tarjeta de Crédito,0
+CLI-0947,Salud & Pharma,17,22,Básico,Transferencia Bancaria (ACH),1
+CLI-0948,Educación / EdTech,8,21,Básico,PayPal Business,0
+CLI-0949,Salud & Pharma,15,13,Básico,PayPal Business,0
+CLI-0950,Logística y Distribución,19,16,Premium,PayPal Business,0
+CLI-0951,Logística y Distribución,10,15,Básico,Tarjeta de Crédito,0
+CLI-0952,Retail y Comercio,11,13,Premium,PayPal Business,0
+CLI-0953,Logística y Distribución,10,12,Premium,PayPal Business,0
+CLI-0954,Educación / EdTech,48,17,Básico,Transferencia Bancaria (ACH),0
+CLI-0955,Fintech & Banca,3,29,Premium,Tarjeta de Crédito,0
+CLI-0956,Manufactura Avanzada,37,38,Básico,Tarjeta de Crédito,0
+CLI-0957,Manufactura Avanzada,7,60,Básico,PayPal Business,0
+CLI-0958,Retail y Comercio,15,12,Básico,Transferencia Bancaria (ACH),0
+CLI-0959,Logística y Distribución,17,19,Básico,Transferencia Bancaria (ACH),0
+CLI-0960,Salud & Pharma,6,9,Premium,PayPal Business,0
+CLI-0961,Educación / EdTech,21,10,Básico,Tarjeta de Crédito,0
+CLI-0962,Entretenimiento & Medios,3,9,Básico,Tarjeta de Crédito,0
+CLI-0963,Entretenimiento & Medios,21,24,Básico,PayPal Business,0
+CLI-0964,Logística y Distribución,45,20,Premium,Transferencia Bancaria (ACH),0
+CLI-0965,Manufactura Avanzada,25,23,Básico,Transferencia Bancaria (ACH),1
+CLI-0966,Logística y Distribución,22,16,Premium,PayPal Business,0
+CLI-0967,Salud & Pharma,13,13,Premium,Transferencia Bancaria (ACH),0
+CLI-0968,Retail y Comercio,15,11,Básico,PayPal Business,0
+CLI-0969,Logística y Distribución,7,19,Premium,PayPal Business,0
+CLI-0970,Fintech & Banca,24,36,Básico,Tarjeta de Crédito,0
+CLI-0971,Educación / EdTech,16,19,Básico,PayPal Business,0
+CLI-0972,Logística y Distribución,11,8,Básico,Tarjeta de Crédito,0
+CLI-0973,Retail y Comercio,41,12,Básico,PayPal Business,0
+CLI-0974,Logística y Distribución,8,5,Básico,Tarjeta de Crédito,0
+CLI-0975,Retail y Comercio,3,19,Básico,Tarjeta de Crédito,0
+CLI-0976,Manufactura Avanzada,23,39,Básico,Tarjeta de Crédito,0
+CLI-0977,Educación / EdTech,17,10,Básico,Transferencia Bancaria (ACH),0
+CLI-0978,Retail y Comercio,4,12,Básico,Tarjeta de Crédito,0
+CLI-0979,Manufactura Avanzada,18,41,Premium,Transferencia Bancaria (ACH),0
+CLI-0980,Manufactura Avanzada,4,41,Básico,Transferencia Bancaria (ACH),1
+CLI-0981,Educación / EdTech,8,15,Básico,Tarjeta de Crédito,0
+CLI-0982,Educación / EdTech,9,5,Básico,PayPal Business,1
+CLI-0983,Educación / EdTech,27,10,Premium,Transferencia Bancaria (ACH),0
+CLI-0984,Salud & Pharma,45,21,Básico,Tarjeta de Crédito,0
+CLI-0985,Retail y Comercio,9,19,Premium,PayPal Business,0
+CLI-0986,Manufactura Avanzada,4,40,Básico,Transferencia Bancaria (ACH),0
+CLI-0987,Retail y Comercio,14,6,Premium,Tarjeta de Crédito,0
+CLI-0988,Entretenimiento & Medios,18,15,Premium,Transferencia Bancaria (ACH),0
+CLI-0989,Retail y Comercio,30,12,Básico,PayPal Business,0
+CLI-0990,Salud & Pharma,5,24,Premium,Tarjeta de Crédito,0
+CLI-0991,Educación / EdTech,5,8,Básico,Transferencia Bancaria (ACH),1
+CLI-0992,Manufactura Avanzada,5,48,Básico,Transferencia Bancaria (ACH),0
+CLI-0993,Educación / EdTech,20,15,Básico,Tarjeta de Crédito,1
+CLI-0994,Fintech & Banca,4,60,Básico,Transferencia Bancaria (ACH),0
+CLI-0995,Educación / EdTech,5,13,Básico,Tarjeta de Crédito,0
+CLI-0996,Retail y Comercio,4,17,Básico,Transferencia Bancaria (ACH),1
+CLI-0997,Logística y Distribución,13,6,Básico,Transferencia Bancaria (ACH),0
+CLI-0998,Entretenimiento & Medios,9,18,Básico,Transferencia Bancaria (ACH),1
+CLI-0999,Logística y Distribución,6,15,Básico,Tarjeta de Crédito,0
+CLI-1000,Manufactura Avanzada,10,45,Básico,PayPal Business,0
+CLI-1001,Logística y Distribución,13,21,Básico,Tarjeta de Crédito,1
+CLI-1002,Manufactura Avanzada,12,52,Básico,Tarjeta de Crédito,0
+CLI-1003,Entretenimiento & Medios,31,18,Básico,Transferencia Bancaria (ACH),0
+CLI-1004,Logística y Distribución,16,28,Básico,Transferencia Bancaria (ACH),0
+CLI-1005,Entretenimiento & Medios,8,17,Básico,Tarjeta de Crédito,0
+CLI-1006,Manufactura Avanzada,9,30,Premium,Tarjeta de Crédito,0
+CLI-1007,Fintech & Banca,6,7,Básico,PayPal Business,0
+CLI-1008,Fintech & Banca,25,43,Básico,Transferencia Bancaria (ACH),0
+CLI-1009,Salud & Pharma,12,27,Premium,Tarjeta de Crédito,0
+CLI-1010,Salud & Pharma,7,20,Básico,Transferencia Bancaria (ACH),0
+CLI-1011,Salud & Pharma,20,22,Premium,Tarjeta de Crédito,0
+CLI-1012,Fintech & Banca,28,41,Básico,PayPal Business,0
+CLI-1013,Manufactura Avanzada,8,37,Básico,PayPal Business,1
+CLI-1014,Logística y Distribución,30,23,Premium,Tarjeta de Crédito,0
+CLI-1015,Salud & Pharma,11,13,Premium,Transferencia Bancaria (ACH),0
+CLI-1016,Salud & Pharma,35,10,Básico,Transferencia Bancaria (ACH),0
+CLI-1017,Salud & Pharma,3,13,Básico,PayPal Business,0
+CLI-1018,Fintech & Banca,48,51,Básico,Transferencia Bancaria (ACH),0
+CLI-1019,Educación / EdTech,17,13,Premium,Tarjeta de Crédito,0
+CLI-1020,Fintech & Banca,10,32,Premium,Transferencia Bancaria (ACH),0
+CLI-1021,Retail y Comercio,14,8,Básico,PayPal Business,0
+CLI-1022,Salud & Pharma,9,10,Básico,PayPal Business,0
+CLI-1023,Retail y Comercio,9,25,Premium,Transferencia Bancaria (ACH),0
+CLI-1024,Entretenimiento & Medios,20,13,Básico,Transferencia Bancaria (ACH),0
+CLI-1025,Manufactura Avanzada,6,37,Básico,Tarjeta de Crédito,0
+CLI-1026,Manufactura Avanzada,25,65,Premium,Tarjeta de Crédito,0
+CLI-1027,Manufactura Avanzada,14,56,Premium,Tarjeta de Crédito,0
+CLI-1028,Salud & Pharma,25,17,Básico,PayPal Business,0
+CLI-1029,Entretenimiento & Medios,5,21,Premium,Transferencia Bancaria (ACH),0
+CLI-1030,Logística y Distribución,5,24,Básico,Transferencia Bancaria (ACH),0
+CLI-1031,Fintech & Banca,33,44,Premium,PayPal Business,0
+CLI-1032,Retail y Comercio,15,16,Premium,PayPal Business,0
+CLI-1033,Salud & Pharma,33,26,Básico,Transferencia Bancaria (ACH),1
+CLI-1034,Manufactura Avanzada,11,53,Premium,Transferencia Bancaria (ACH),0
+CLI-1035,Manufactura Avanzada,7,32,Básico,PayPal Business,0
+CLI-1036,Entretenimiento & Medios,6,8,Básico,PayPal Business,0
+CLI-1037,Logística y Distribución,36,6,Básico,Transferencia Bancaria (ACH),0
+CLI-1038,Entretenimiento & Medios,19,15,Básico,PayPal Business,0
+CLI-1039,Logística y Distribución,27,21,Básico,Tarjeta de Crédito,0
+CLI-1040,Educación / EdTech,19,18,Básico,PayPal Business,0
+CLI-1041,Educación / EdTech,42,6,Básico,PayPal Business,1
+CLI-1042,Educación / EdTech,5,21,Premium,PayPal Business,0
+CLI-1043,Entretenimiento & Medios,6,5,Premium,Transferencia Bancaria (ACH),0
+CLI-1044,Salud & Pharma,26,18,Premium,Tarjeta de Crédito,1
+CLI-1045,Retail y Comercio,23,9,Básico,Tarjeta de Crédito,0
+CLI-1046,Manufactura Avanzada,3,57,Básico,PayPal Business,0
+CLI-1047,Manufactura Avanzada,3,36,Básico,Tarjeta de Crédito,1
+CLI-1048,Salud & Pharma,3,17,Premium,Transferencia Bancaria (ACH),0
+CLI-1049,Manufactura Avanzada,8,48,Premium,PayPal Business,0
+CLI-1050,Retail y Comercio,27,13,Premium,Tarjeta de Crédito,0
+CLI-1051,Retail y Comercio,7,10,Básico,Transferencia Bancaria (ACH),0
+CLI-1052,Logística y Distribución,48,15,Básico,Tarjeta de Crédito,0
+CLI-1053,Educación / EdTech,22,17,Premium,Tarjeta de Crédito,0
+CLI-1054,Retail y Comercio,6,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1055,Manufactura Avanzada,10,54,Básico,Transferencia Bancaria (ACH),0
+CLI-1056,Logística y Distribución,8,11,Premium,Transferencia Bancaria (ACH),0
+CLI-1057,Salud & Pharma,6,23,Básico,Transferencia Bancaria (ACH),1
+CLI-1058,Logística y Distribución,28,18,Básico,PayPal Business,1
+CLI-1059,Entretenimiento & Medios,14,20,Básico,Transferencia Bancaria (ACH),0
+CLI-1060,Educación / EdTech,15,16,Premium,Tarjeta de Crédito,0
+CLI-1061,Educación / EdTech,22,25,Básico,Tarjeta de Crédito,0
+CLI-1062,Manufactura Avanzada,6,34,Básico,Tarjeta de Crédito,0
+CLI-1063,Salud & Pharma,39,13,Básico,Transferencia Bancaria (ACH),0
+CLI-1064,Salud & Pharma,6,18,Premium,PayPal Business,0
+CLI-1065,Educación / EdTech,48,21,Premium,PayPal Business,0
+CLI-1066,Logística y Distribución,15,18,Básico,PayPal Business,0
+CLI-1067,Fintech & Banca,11,54,Básico,Transferencia Bancaria (ACH),0
+CLI-1068,Salud & Pharma,42,22,Básico,Tarjeta de Crédito,0
+CLI-1069,Fintech & Banca,12,53,Básico,Transferencia Bancaria (ACH),0
+CLI-1070,Entretenimiento & Medios,7,21,Básico,Tarjeta de Crédito,0
+CLI-1071,Entretenimiento & Medios,17,7,Premium,PayPal Business,0
+CLI-1072,Retail y Comercio,11,17,Premium,Tarjeta de Crédito,0
+CLI-1073,Retail y Comercio,28,18,Premium,PayPal Business,0
+CLI-1074,Manufactura Avanzada,28,55,Premium,PayPal Business,0
+CLI-1075,Salud & Pharma,48,9,Básico,PayPal Business,0
+CLI-1076,Logística y Distribución,5,33,Básico,Transferencia Bancaria (ACH),1
+CLI-1077,Salud & Pharma,7,15,Básico,PayPal Business,1
+CLI-1078,Educación / EdTech,9,19,Básico,PayPal Business,0
+CLI-1079,Manufactura Avanzada,3,30,Básico,PayPal Business,1
+CLI-1080,Fintech & Banca,32,38,Premium,Transferencia Bancaria (ACH),0
+CLI-1081,Retail y Comercio,18,17,Premium,Tarjeta de Crédito,0
+CLI-1082,Educación / EdTech,6,12,Premium,Tarjeta de Crédito,0
+CLI-1083,Salud & Pharma,7,16,Básico,PayPal Business,1
+CLI-1084,Salud & Pharma,29,15,Básico,Transferencia Bancaria (ACH),1
+CLI-1085,Educación / EdTech,8,17,Premium,PayPal Business,0
+CLI-1086,Educación / EdTech,4,16,Básico,Tarjeta de Crédito,0
+CLI-1087,Salud & Pharma,4,11,Básico,Transferencia Bancaria (ACH),1
+CLI-1088,Retail y Comercio,7,10,Básico,Transferencia Bancaria (ACH),0
+CLI-1089,Entretenimiento & Medios,5,5,Premium,Transferencia Bancaria (ACH),0
+CLI-1090,Salud & Pharma,8,12,Básico,Tarjeta de Crédito,1
+CLI-1091,Salud & Pharma,6,12,Básico,PayPal Business,0
+CLI-1092,Salud & Pharma,18,11,Básico,Transferencia Bancaria (ACH),0
+CLI-1093,Salud & Pharma,6,12,Básico,PayPal Business,0
+CLI-1094,Salud & Pharma,30,16,Básico,Tarjeta de Crédito,1
+CLI-1095,Logística y Distribución,4,5,Básico,Tarjeta de Crédito,1
+CLI-1096,Retail y Comercio,25,14,Básico,Tarjeta de Crédito,0
+CLI-1097,Fintech & Banca,15,26,Básico,Transferencia Bancaria (ACH),0
+CLI-1098,Entretenimiento & Medios,7,15,Básico,Transferencia Bancaria (ACH),0
+CLI-1099,Logística y Distribución,4,5,Premium,PayPal Business,1
+CLI-1100,Entretenimiento & Medios,3,12,Básico,PayPal Business,0
+CLI-1101,Retail y Comercio,11,18,Premium,PayPal Business,0
+CLI-1102,Logística y Distribución,24,24,Premium,PayPal Business,0
+CLI-1103,Fintech & Banca,8,54,Premium,Transferencia Bancaria (ACH),0
+CLI-1104,Entretenimiento & Medios,33,15,Básico,PayPal Business,0
+CLI-1105,Retail y Comercio,6,25,Básico,Tarjeta de Crédito,0
+CLI-1106,Retail y Comercio,12,14,Premium,Tarjeta de Crédito,0
+CLI-1107,Logística y Distribución,9,13,Básico,Tarjeta de Crédito,0
+CLI-1108,Educación / EdTech,11,21,Premium,PayPal Business,0
+CLI-1109,Entretenimiento & Medios,4,16,Básico,PayPal Business,0
+CLI-1110,Salud & Pharma,12,7,Básico,Tarjeta de Crédito,0
+CLI-1111,Entretenimiento & Medios,6,5,Premium,Tarjeta de Crédito,0
+CLI-1112,Entretenimiento & Medios,5,20,Básico,Tarjeta de Crédito,0
+CLI-1113,Manufactura Avanzada,5,29,Básico,Transferencia Bancaria (ACH),0
+CLI-1114,Fintech & Banca,27,31,Básico,Transferencia Bancaria (ACH),0
+CLI-1115,Retail y Comercio,39,15,Básico,Transferencia Bancaria (ACH),0
+CLI-1116,Entretenimiento & Medios,9,17,Premium,PayPal Business,0
+CLI-1117,Educación / EdTech,9,15,Premium,Tarjeta de Crédito,0
+CLI-1118,Entretenimiento & Medios,25,9,Básico,Transferencia Bancaria (ACH),0
+CLI-1119,Retail y Comercio,18,10,Premium,PayPal Business,0
+CLI-1120,Entretenimiento & Medios,7,10,Básico,Tarjeta de Crédito,0
+CLI-1121,Educación / EdTech,3,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1122,Entretenimiento & Medios,22,17,Básico,PayPal Business,0
+CLI-1123,Fintech & Banca,11,31,Básico,PayPal Business,0
+CLI-1124,Educación / EdTech,38,13,Básico,Transferencia Bancaria (ACH),0
+CLI-1125,Logística y Distribución,7,11,Premium,PayPal Business,0
+CLI-1126,Entretenimiento & Medios,11,10,Básico,Tarjeta de Crédito,0
+CLI-1127,Educación / EdTech,23,14,Básico,Transferencia Bancaria (ACH),0
+CLI-1128,Retail y Comercio,15,7,Premium,Transferencia Bancaria (ACH),0
+CLI-1129,Retail y Comercio,23,22,Básico,PayPal Business,1
+CLI-1130,Entretenimiento & Medios,3,12,Básico,PayPal Business,1
+CLI-1131,Salud & Pharma,8,29,Premium,PayPal Business,0
+CLI-1132,Retail y Comercio,12,16,Básico,Tarjeta de Crédito,0
+CLI-1133,Salud & Pharma,3,15,Básico,Tarjeta de Crédito,0
+CLI-1134,Entretenimiento & Medios,28,11,Básico,Tarjeta de Crédito,0
+CLI-1135,Retail y Comercio,3,5,Básico,Transferencia Bancaria (ACH),1
+CLI-1136,Manufactura Avanzada,21,36,Básico,Tarjeta de Crédito,0
+CLI-1137,Salud & Pharma,16,10,Básico,Transferencia Bancaria (ACH),0
+CLI-1138,Entretenimiento & Medios,25,11,Básico,Tarjeta de Crédito,1
+CLI-1139,Educación / EdTech,22,16,Básico,Transferencia Bancaria (ACH),1
+CLI-1140,Entretenimiento & Medios,18,12,Básico,Tarjeta de Crédito,0
+CLI-1141,Logística y Distribución,40,11,Básico,Transferencia Bancaria (ACH),0
+CLI-1142,Educación / EdTech,27,14,Básico,Tarjeta de Crédito,0
+CLI-1143,Retail y Comercio,23,10,Básico,Tarjeta de Crédito,0
+CLI-1144,Retail y Comercio,48,7,Premium,Tarjeta de Crédito,0
+CLI-1145,Retail y Comercio,40,19,Premium,Tarjeta de Crédito,0
+CLI-1146,Educación / EdTech,8,6,Premium,Tarjeta de Crédito,1
+CLI-1147,Educación / EdTech,44,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1148,Entretenimiento & Medios,7,18,Premium,Tarjeta de Crédito,0
+CLI-1149,Logística y Distribución,3,20,Básico,PayPal Business,1
+CLI-1150,Fintech & Banca,48,52,Básico,Transferencia Bancaria (ACH),1
+CLI-1151,Manufactura Avanzada,8,38,Básico,Tarjeta de Crédito,0
+CLI-1152,Salud & Pharma,8,10,Premium,Tarjeta de Crédito,1
+CLI-1153,Retail y Comercio,41,12,Premium,Tarjeta de Crédito,0
+CLI-1154,Salud & Pharma,3,8,Básico,PayPal Business,1
+CLI-1155,Logística y Distribución,5,8,Premium,Tarjeta de Crédito,1
+CLI-1156,Educación / EdTech,11,16,Básico,Tarjeta de Crédito,1
+CLI-1157,Retail y Comercio,6,27,Premium,Transferencia Bancaria (ACH),0
+CLI-1158,Entretenimiento & Medios,22,12,Básico,Tarjeta de Crédito,0
+CLI-1159,Educación / EdTech,35,18,Básico,Tarjeta de Crédito,1
+CLI-1160,Manufactura Avanzada,3,48,Básico,Tarjeta de Crédito,0
+CLI-1161,Fintech & Banca,18,19,Premium,Transferencia Bancaria (ACH),0
+CLI-1162,Fintech & Banca,34,21,Premium,PayPal Business,0
+CLI-1163,Salud & Pharma,8,8,Básico,PayPal Business,0
+CLI-1164,Entretenimiento & Medios,5,20,Básico,Tarjeta de Crédito,1
+CLI-1165,Logística y Distribución,10,16,Básico,Tarjeta de Crédito,0
+CLI-1166,Manufactura Avanzada,12,60,Básico,PayPal Business,0
+CLI-1167,Salud & Pharma,15,7,Básico,Transferencia Bancaria (ACH),0
+CLI-1168,Fintech & Banca,14,37,Premium,Transferencia Bancaria (ACH),0
+CLI-1169,Fintech & Banca,8,50,Premium,PayPal Business,0
+CLI-1170,Educación / EdTech,27,22,Básico,PayPal Business,0
+CLI-1171,Educación / EdTech,17,13,Básico,Tarjeta de Crédito,0
+CLI-1172,Educación / EdTech,3,20,Premium,Transferencia Bancaria (ACH),1
+CLI-1173,Manufactura Avanzada,25,42,Básico,PayPal Business,1
+CLI-1174,Salud & Pharma,4,9,Premium,Transferencia Bancaria (ACH),0
+CLI-1175,Entretenimiento & Medios,6,15,Premium,Tarjeta de Crédito,0
+CLI-1176,Logística y Distribución,3,10,Premium,Tarjeta de Crédito,0
+CLI-1177,Manufactura Avanzada,13,19,Premium,Tarjeta de Crédito,0
+CLI-1178,Logística y Distribución,26,18,Premium,Transferencia Bancaria (ACH),0
+CLI-1179,Fintech & Banca,7,39,Básico,Transferencia Bancaria (ACH),0
+CLI-1180,Manufactura Avanzada,3,45,Básico,Transferencia Bancaria (ACH),1
+CLI-1181,Educación / EdTech,19,5,Básico,Tarjeta de Crédito,0
+CLI-1182,Entretenimiento & Medios,7,13,Básico,Tarjeta de Crédito,1
+CLI-1183,Logística y Distribución,9,17,Básico,Tarjeta de Crédito,0
+CLI-1184,Logística y Distribución,9,17,Básico,Tarjeta de Crédito,0
+CLI-1185,Salud & Pharma,25,8,Básico,PayPal Business,1
+CLI-1186,Educación / EdTech,11,11,Básico,PayPal Business,0
+CLI-1187,Salud & Pharma,28,11,Premium,PayPal Business,0
+CLI-1188,Educación / EdTech,27,7,Básico,PayPal Business,0
+CLI-1189,Fintech & Banca,11,44,Básico,Transferencia Bancaria (ACH),1
+CLI-1190,Logística y Distribución,41,13,Premium,PayPal Business,0
+CLI-1191,Entretenimiento & Medios,13,14,Básico,Tarjeta de Crédito,0
+CLI-1192,Salud & Pharma,5,11,Premium,PayPal Business,0
+CLI-1193,Entretenimiento & Medios,48,25,Básico,PayPal Business,0
+CLI-1194,Logística y Distribución,10,17,Básico,Transferencia Bancaria (ACH),0
+CLI-1195,Educación / EdTech,16,16,Básico,Tarjeta de Crédito,1
+CLI-1196,Logística y Distribución,9,17,Básico,Transferencia Bancaria (ACH),1
+CLI-1197,Manufactura Avanzada,10,44,Básico,PayPal Business,1
+CLI-1198,Educación / EdTech,9,17,Básico,PayPal Business,0
+CLI-1199,Fintech & Banca,4,27,Premium,Tarjeta de Crédito,1
+CLI-1200,Fintech & Banca,18,18,Básico,PayPal Business,1
+CLI-1201,Salud & Pharma,10,12,Premium,Transferencia Bancaria (ACH),0
+CLI-1202,Entretenimiento & Medios,3,12,Básico,PayPal Business,1
+CLI-1203,Retail y Comercio,5,15,Básico,Tarjeta de Crédito,0
+CLI-1204,Entretenimiento & Medios,12,21,Premium,Transferencia Bancaria (ACH),0
+CLI-1205,Logística y Distribución,47,17,Premium,Tarjeta de Crédito,0
+CLI-1206,Salud & Pharma,37,13,Básico,Transferencia Bancaria (ACH),0
+CLI-1207,Retail y Comercio,16,23,Básico,PayPal Business,0
+CLI-1208,Educación / EdTech,18,11,Básico,Tarjeta de Crédito,0
+CLI-1209,Manufactura Avanzada,21,36,Premium,Transferencia Bancaria (ACH),0
+CLI-1210,Entretenimiento & Medios,13,16,Premium,PayPal Business,0
+CLI-1211,Fintech & Banca,10,48,Básico,Transferencia Bancaria (ACH),0
+CLI-1212,Manufactura Avanzada,29,37,Básico,PayPal Business,0
+CLI-1213,Fintech & Banca,13,48,Básico,PayPal Business,0
+CLI-1214,Logística y Distribución,3,5,Básico,Tarjeta de Crédito,1
+CLI-1215,Salud & Pharma,3,24,Básico,Transferencia Bancaria (ACH),1
+CLI-1216,Fintech & Banca,18,31,Premium,Tarjeta de Crédito,0
+CLI-1217,Entretenimiento & Medios,44,23,Básico,Tarjeta de Crédito,0
+CLI-1218,Educación / EdTech,48,12,Básico,PayPal Business,0
+CLI-1219,Fintech & Banca,15,55,Básico,Transferencia Bancaria (ACH),0
+CLI-1220,Educación / EdTech,42,21,Básico,Transferencia Bancaria (ACH),0
+CLI-1221,Logística y Distribución,16,10,Básico,PayPal Business,0
+CLI-1222,Manufactura Avanzada,10,27,Básico,PayPal Business,0
+CLI-1223,Fintech & Banca,5,57,Premium,Tarjeta de Crédito,0
+CLI-1224,Logística y Distribución,4,12,Básico,Transferencia Bancaria (ACH),1
+CLI-1225,Salud & Pharma,4,8,Básico,Transferencia Bancaria (ACH),0
+CLI-1226,Retail y Comercio,3,17,Premium,Transferencia Bancaria (ACH),1
+CLI-1227,Salud & Pharma,48,12,Premium,Tarjeta de Crédito,0
+CLI-1228,Retail y Comercio,39,11,Básico,PayPal Business,0
+CLI-1229,Educación / EdTech,3,15,Básico,PayPal Business,1
+CLI-1230,Retail y Comercio,3,11,Básico,PayPal Business,0
+CLI-1231,Entretenimiento & Medios,3,10,Básico,Tarjeta de Crédito,0
+CLI-1232,Manufactura Avanzada,15,52,Básico,Tarjeta de Crédito,1
+CLI-1233,Salud & Pharma,48,5,Premium,Tarjeta de Crédito,0
+CLI-1234,Retail y Comercio,7,17,Premium,PayPal Business,0
+CLI-1235,Logística y Distribución,9,11,Básico,Transferencia Bancaria (ACH),1
+CLI-1236,Educación / EdTech,28,15,Premium,Transferencia Bancaria (ACH),0
+CLI-1237,Educación / EdTech,6,18,Premium,Transferencia Bancaria (ACH),0
+CLI-1238,Manufactura Avanzada,4,33,Básico,Tarjeta de Crédito,1
+CLI-1239,Logística y Distribución,8,19,Básico,Tarjeta de Crédito,0
+CLI-1240,Logística y Distribución,12,10,Básico,Tarjeta de Crédito,0
+CLI-1241,Entretenimiento & Medios,8,19,Básico,PayPal Business,0
+CLI-1242,Retail y Comercio,14,5,Premium,Transferencia Bancaria (ACH),0
+CLI-1243,Logística y Distribución,22,13,Básico,PayPal Business,1
+CLI-1244,Fintech & Banca,9,37,Básico,PayPal Business,0
+CLI-1245,Logística y Distribución,18,24,Básico,PayPal Business,0
+CLI-1246,Salud & Pharma,17,9,Básico,PayPal Business,0
+CLI-1247,Fintech & Banca,33,36,Básico,Transferencia Bancaria (ACH),0
+CLI-1248,Retail y Comercio,10,18,Básico,Transferencia Bancaria (ACH),0
+CLI-1249,Educación / EdTech,18,18,Premium,Transferencia Bancaria (ACH),0
+CLI-1250,Retail y Comercio,10,20,Básico,Tarjeta de Crédito,1
+CLI-1251,Fintech & Banca,21,56,Básico,Tarjeta de Crédito,0
+CLI-1252,Manufactura Avanzada,4,26,Premium,Tarjeta de Crédito,1
+CLI-1253,Fintech & Banca,5,47,Básico,Transferencia Bancaria (ACH),0
+CLI-1254,Salud & Pharma,31,21,Básico,Tarjeta de Crédito,0
+CLI-1255,Entretenimiento & Medios,11,7,Básico,Tarjeta de Crédito,0
+CLI-1256,Salud & Pharma,8,25,Básico,Transferencia Bancaria (ACH),0
+CLI-1257,Logística y Distribución,29,20,Básico,Tarjeta de Crédito,0
+CLI-1258,Retail y Comercio,24,18,Básico,PayPal Business,0
+CLI-1259,Logística y Distribución,26,18,Básico,Tarjeta de Crédito,0
+CLI-1260,Retail y Comercio,31,10,Básico,Tarjeta de Crédito,1
+CLI-1261,Fintech & Banca,4,34,Premium,Transferencia Bancaria (ACH),0
+CLI-1262,Logística y Distribución,15,20,Básico,PayPal Business,0
+CLI-1263,Entretenimiento & Medios,19,5,Básico,Tarjeta de Crédito,1
+CLI-1264,Salud & Pharma,23,25,Básico,Transferencia Bancaria (ACH),0
+CLI-1265,Manufactura Avanzada,19,47,Premium,Tarjeta de Crédito,0
+CLI-1266,Logística y Distribución,6,7,Básico,Tarjeta de Crédito,1
+CLI-1267,Logística y Distribución,4,21,Básico,Tarjeta de Crédito,1
+CLI-1268,Entretenimiento & Medios,21,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1269,Educación / EdTech,12,13,Básico,PayPal Business,1
+CLI-1270,Manufactura Avanzada,3,46,Básico,Transferencia Bancaria (ACH),0
+CLI-1271,Logística y Distribución,7,15,Básico,Tarjeta de Crédito,0
+CLI-1272,Fintech & Banca,14,36,Básico,PayPal Business,0
+CLI-1273,Fintech & Banca,7,42,Básico,Tarjeta de Crédito,0
+CLI-1274,Entretenimiento & Medios,33,15,Básico,Transferencia Bancaria (ACH),1
+CLI-1275,Salud & Pharma,14,10,Básico,Tarjeta de Crédito,1
+CLI-1276,Manufactura Avanzada,15,40,Básico,Transferencia Bancaria (ACH),0
+CLI-1277,Salud & Pharma,37,8,Premium,Transferencia Bancaria (ACH),1
+CLI-1278,Educación / EdTech,7,13,Básico,Transferencia Bancaria (ACH),1
+CLI-1279,Fintech & Banca,19,41,Premium,Tarjeta de Crédito,0
+CLI-1280,Salud & Pharma,18,15,Premium,Tarjeta de Crédito,1
+CLI-1281,Manufactura Avanzada,7,47,Básico,PayPal Business,0
+CLI-1282,Retail y Comercio,15,8,Básico,Transferencia Bancaria (ACH),0
+CLI-1283,Manufactura Avanzada,21,53,Básico,Transferencia Bancaria (ACH),1
+CLI-1284,Retail y Comercio,8,7,Básico,Transferencia Bancaria (ACH),1
+CLI-1285,Fintech & Banca,4,30,Básico,PayPal Business,0
+CLI-1286,Manufactura Avanzada,21,43,Premium,Tarjeta de Crédito,0
+CLI-1287,Entretenimiento & Medios,4,7,Básico,PayPal Business,0
+CLI-1288,Salud & Pharma,13,10,Premium,PayPal Business,0
+CLI-1289,Manufactura Avanzada,47,47,Básico,Transferencia Bancaria (ACH),0
+CLI-1290,Manufactura Avanzada,14,73,Básico,PayPal Business,0
+CLI-1291,Retail y Comercio,16,6,Básico,Tarjeta de Crédito,1
+CLI-1292,Manufactura Avanzada,8,32,Básico,Tarjeta de Crédito,1
+CLI-1293,Entretenimiento & Medios,5,14,Básico,Transferencia Bancaria (ACH),1
+CLI-1294,Salud & Pharma,31,16,Premium,PayPal Business,0
+CLI-1295,Manufactura Avanzada,15,33,Básico,Tarjeta de Crédito,0
+CLI-1296,Logística y Distribución,10,21,Premium,Tarjeta de Crédito,0
+CLI-1297,Retail y Comercio,19,10,Básico,PayPal Business,0
+CLI-1298,Educación / EdTech,4,12,Básico,Tarjeta de Crédito,0
+CLI-1299,Fintech & Banca,19,52,Premium,PayPal Business,0
+CLI-1300,Entretenimiento & Medios,12,19,Premium,Transferencia Bancaria (ACH),0
+CLI-1301,Entretenimiento & Medios,16,12,Básico,Tarjeta de Crédito,1
+CLI-1302,Manufactura Avanzada,29,19,Básico,Transferencia Bancaria (ACH),0
+CLI-1303,Educación / EdTech,4,30,Básico,Transferencia Bancaria (ACH),0
+CLI-1304,Logística y Distribución,4,11,Básico,PayPal Business,0
+CLI-1305,Manufactura Avanzada,4,54,Básico,PayPal Business,1
+CLI-1306,Fintech & Banca,17,67,Premium,Transferencia Bancaria (ACH),0
+CLI-1307,Fintech & Banca,3,63,Básico,Transferencia Bancaria (ACH),1
+CLI-1308,Logística y Distribución,8,14,Básico,Tarjeta de Crédito,0
+CLI-1309,Logística y Distribución,34,17,Premium,PayPal Business,0
+CLI-1310,Retail y Comercio,9,22,Básico,PayPal Business,0
+CLI-1311,Fintech & Banca,11,47,Básico,Transferencia Bancaria (ACH),0
+CLI-1312,Entretenimiento & Medios,9,9,Premium,Transferencia Bancaria (ACH),1
+CLI-1313,Fintech & Banca,3,35,Premium,PayPal Business,0
+CLI-1314,Fintech & Banca,19,38,Básico,Tarjeta de Crédito,0
+CLI-1315,Entretenimiento & Medios,18,23,Básico,Transferencia Bancaria (ACH),0
+CLI-1316,Retail y Comercio,10,11,Premium,PayPal Business,0
+CLI-1317,Salud & Pharma,7,16,Premium,PayPal Business,0
+CLI-1318,Retail y Comercio,9,9,Básico,Transferencia Bancaria (ACH),1
+CLI-1319,Fintech & Banca,8,24,Premium,PayPal Business,0
+CLI-1320,Entretenimiento & Medios,48,15,Básico,PayPal Business,0
+CLI-1321,Educación / EdTech,9,9,Premium,Transferencia Bancaria (ACH),0
+CLI-1322,Manufactura Avanzada,10,37,Básico,PayPal Business,0
+CLI-1323,Manufactura Avanzada,18,63,Básico,Transferencia Bancaria (ACH),0
+CLI-1324,Manufactura Avanzada,26,30,Premium,Tarjeta de Crédito,0
+CLI-1325,Educación / EdTech,17,29,Básico,PayPal Business,0
+CLI-1326,Fintech & Banca,10,33,Básico,PayPal Business,1
+CLI-1327,Educación / EdTech,4,8,Premium,PayPal Business,1
+CLI-1328,Entretenimiento & Medios,6,12,Básico,PayPal Business,1
+CLI-1329,Manufactura Avanzada,14,51,Básico,Transferencia Bancaria (ACH),0
+CLI-1330,Manufactura Avanzada,8,43,Premium,Tarjeta de Crédito,0
+CLI-1331,Logística y Distribución,13,15,Premium,Transferencia Bancaria (ACH),0
+CLI-1332,Educación / EdTech,10,10,Básico,Tarjeta de Crédito,0
+CLI-1333,Retail y Comercio,5,13,Básico,Tarjeta de Crédito,0
+CLI-1334,Logística y Distribución,4,8,Premium,PayPal Business,0
+CLI-1335,Educación / EdTech,22,22,Básico,Transferencia Bancaria (ACH),0
+CLI-1336,Retail y Comercio,12,16,Básico,Tarjeta de Crédito,0
+CLI-1337,Logística y Distribución,27,10,Premium,Transferencia Bancaria (ACH),0
+CLI-1338,Logística y Distribución,4,20,Premium,PayPal Business,1
+CLI-1339,Salud & Pharma,48,18,Básico,Transferencia Bancaria (ACH),0
+CLI-1340,Fintech & Banca,10,30,Básico,Transferencia Bancaria (ACH),0
+CLI-1341,Salud & Pharma,15,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1342,Logística y Distribución,26,17,Premium,Transferencia Bancaria (ACH),0
+CLI-1343,Manufactura Avanzada,3,32,Básico,PayPal Business,0
+CLI-1344,Fintech & Banca,11,50,Básico,Tarjeta de Crédito,0
+CLI-1345,Entretenimiento & Medios,9,15,Premium,Tarjeta de Crédito,0
+CLI-1346,Retail y Comercio,9,11,Básico,Transferencia Bancaria (ACH),0
+CLI-1347,Logística y Distribución,11,16,Básico,Transferencia Bancaria (ACH),1
+CLI-1348,Salud & Pharma,25,22,Básico,Tarjeta de Crédito,0
+CLI-1349,Manufactura Avanzada,27,54,Básico,Tarjeta de Crédito,0
+CLI-1350,Manufactura Avanzada,10,46,Premium,Transferencia Bancaria (ACH),0
+CLI-1351,Salud & Pharma,13,6,Básico,PayPal Business,1
+CLI-1352,Salud & Pharma,14,18,Básico,Tarjeta de Crédito,1
+CLI-1353,Retail y Comercio,3,23,Básico,Tarjeta de Crédito,0
+CLI-1354,Salud & Pharma,6,18,Premium,PayPal Business,0
+CLI-1355,Educación / EdTech,4,7,Básico,PayPal Business,1
+CLI-1356,Retail y Comercio,6,13,Básico,Transferencia Bancaria (ACH),0
+CLI-1357,Logística y Distribución,3,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1358,Entretenimiento & Medios,9,5,Premium,Transferencia Bancaria (ACH),0
+CLI-1359,Retail y Comercio,5,10,Básico,Tarjeta de Crédito,1
+CLI-1360,Retail y Comercio,14,15,Básico,PayPal Business,0
+CLI-1361,Salud & Pharma,32,18,Básico,Tarjeta de Crédito,1
+CLI-1362,Fintech & Banca,4,40,Básico,Tarjeta de Crédito,0
+CLI-1363,Logística y Distribución,5,27,Básico,Transferencia Bancaria (ACH),0
+CLI-1364,Retail y Comercio,43,18,Premium,Transferencia Bancaria (ACH),0
+CLI-1365,Educación / EdTech,7,5,Básico,Transferencia Bancaria (ACH),1
+CLI-1366,Manufactura Avanzada,48,41,Premium,Transferencia Bancaria (ACH),0
+CLI-1367,Salud & Pharma,44,12,Básico,Transferencia Bancaria (ACH),1
+CLI-1368,Logística y Distribución,4,8,Básico,Transferencia Bancaria (ACH),1
+CLI-1369,Retail y Comercio,18,8,Básico,Tarjeta de Crédito,0
+CLI-1370,Manufactura Avanzada,10,61,Básico,Tarjeta de Crédito,1
+CLI-1371,Educación / EdTech,8,15,Premium,PayPal Business,0
+CLI-1372,Educación / EdTech,8,18,Básico,Transferencia Bancaria (ACH),0
+CLI-1373,Salud & Pharma,6,18,Básico,PayPal Business,0
+CLI-1374,Logística y Distribución,12,21,Premium,Transferencia Bancaria (ACH),0
+CLI-1375,Salud & Pharma,4,9,Premium,PayPal Business,0
+CLI-1376,Salud & Pharma,48,7,Básico,PayPal Business,0
+CLI-1377,Salud & Pharma,32,12,Básico,Transferencia Bancaria (ACH),1
+CLI-1378,Entretenimiento & Medios,10,18,Premium,PayPal Business,1
+CLI-1379,Manufactura Avanzada,5,32,Premium,PayPal Business,0
+CLI-1380,Educación / EdTech,10,21,Básico,PayPal Business,1
+CLI-1381,Entretenimiento & Medios,28,17,Básico,Transferencia Bancaria (ACH),1
+CLI-1382,Fintech & Banca,19,43,Básico,Tarjeta de Crédito,0
+CLI-1383,Fintech & Banca,10,13,Básico,Tarjeta de Crédito,0
+CLI-1384,Educación / EdTech,48,21,Básico,Transferencia Bancaria (ACH),0
+CLI-1385,Entretenimiento & Medios,18,8,Básico,PayPal Business,1
+CLI-1386,Manufactura Avanzada,44,36,Premium,Transferencia Bancaria (ACH),0
+CLI-1387,Educación / EdTech,36,23,Básico,Tarjeta de Crédito,1
+CLI-1388,Manufactura Avanzada,10,25,Básico,Transferencia Bancaria (ACH),0
+CLI-1389,Entretenimiento & Medios,15,7,Básico,Transferencia Bancaria (ACH),0
+CLI-1390,Entretenimiento & Medios,14,16,Básico,Tarjeta de Crédito,0
+CLI-1391,Manufactura Avanzada,6,54,Básico,PayPal Business,0
+CLI-1392,Salud & Pharma,7,11,Premium,Tarjeta de Crédito,0
+CLI-1393,Fintech & Banca,14,47,Básico,PayPal Business,0
+CLI-1394,Entretenimiento & Medios,12,19,Básico,Tarjeta de Crédito,0
+CLI-1395,Manufactura Avanzada,7,61,Básico,Tarjeta de Crédito,0
+CLI-1396,Entretenimiento & Medios,7,6,Básico,PayPal Business,0
+CLI-1397,Salud & Pharma,12,20,Básico,Transferencia Bancaria (ACH),0
+CLI-1398,Salud & Pharma,15,9,Premium,PayPal Business,0
+CLI-1399,Logística y Distribución,5,9,Básico,Tarjeta de Crédito,1
+CLI-1400,Fintech & Banca,14,39,Básico,PayPal Business,0
+CLI-1401,Educación / EdTech,13,14,Básico,Transferencia Bancaria (ACH),1
+CLI-1402,Retail y Comercio,30,15,Básico,PayPal Business,0
+CLI-1403,Educación / EdTech,33,22,Básico,Transferencia Bancaria (ACH),0
+CLI-1404,Retail y Comercio,22,17,Premium,Tarjeta de Crédito,0
+CLI-1405,Entretenimiento & Medios,14,11,Básico,Transferencia Bancaria (ACH),0
+CLI-1406,Entretenimiento & Medios,6,10,Básico,Transferencia Bancaria (ACH),0
+CLI-1407,Educación / EdTech,14,5,Básico,Tarjeta de Crédito,0
+CLI-1408,Fintech & Banca,4,62,Básico,Tarjeta de Crédito,1
+CLI-1409,Educación / EdTech,5,6,Básico,Transferencia Bancaria (ACH),0
+CLI-1410,Retail y Comercio,10,15,Premium,Transferencia Bancaria (ACH),0
+CLI-1411,Manufactura Avanzada,3,56,Premium,PayPal Business,1
+CLI-1412,Salud & Pharma,40,22,Básico,Tarjeta de Crédito,0
+CLI-1413,Salud & Pharma,5,14,Básico,PayPal Business,0
+CLI-1414,Manufactura Avanzada,18,51,Premium,Transferencia Bancaria (ACH),0
+CLI-1415,Manufactura Avanzada,40,47,Básico,Tarjeta de Crédito,1
+CLI-1416,Educación / EdTech,6,12,Premium,PayPal Business,0
+CLI-1417,Entretenimiento & Medios,7,12,Premium,PayPal Business,0
+CLI-1418,Logística y Distribución,12,12,Premium,Tarjeta de Crédito,0
+CLI-1419,Entretenimiento & Medios,6,19,Básico,Tarjeta de Crédito,0
+CLI-1420,Fintech & Banca,10,49,Básico,Tarjeta de Crédito,0
+CLI-1421,Retail y Comercio,48,18,Básico,PayPal Business,1
+CLI-1422,Retail y Comercio,24,16,Premium,Transferencia Bancaria (ACH),0
+CLI-1423,Educación / EdTech,19,14,Básico,Tarjeta de Crédito,0
+CLI-1424,Fintech & Banca,18,45,Premium,Transferencia Bancaria (ACH),0
+CLI-1425,Salud & Pharma,14,15,Básico,Tarjeta de Crédito,0
+CLI-1426,Salud & Pharma,10,6,Básico,PayPal Business,0
+CLI-1427,Retail y Comercio,22,11,Básico,Tarjeta de Crédito,0
+CLI-1428,Retail y Comercio,6,6,Premium,PayPal Business,0
+CLI-1429,Logística y Distribución,36,23,Premium,Transferencia Bancaria (ACH),1
+CLI-1430,Logística y Distribución,29,10,Básico,Tarjeta de Crédito,0
+CLI-1431,Entretenimiento & Medios,46,5,Básico,Tarjeta de Crédito,0
+CLI-1432,Educación / EdTech,12,8,Básico,Tarjeta de Crédito,0
+CLI-1433,Retail y Comercio,7,20,Premium,PayPal Business,0
+CLI-1434,Logística y Distribución,8,11,Premium,PayPal Business,1
+CLI-1435,Fintech & Banca,30,33,Premium,PayPal Business,0
+CLI-1436,Entretenimiento & Medios,43,17,Premium,Tarjeta de Crédito,0
+CLI-1437,Manufactura Avanzada,8,66,Básico,Transferencia Bancaria (ACH),0
+CLI-1438,Educación / EdTech,4,15,Básico,PayPal Business,1
+CLI-1439,Salud & Pharma,25,14,Premium,Transferencia Bancaria (ACH),0
+CLI-1440,Fintech & Banca,22,44,Premium,Transferencia Bancaria (ACH),0
+CLI-1441,Manufactura Avanzada,43,49,Básico,PayPal Business,0
+CLI-1442,Logística y Distribución,20,12,Premium,Tarjeta de Crédito,0
+CLI-1443,Educación / EdTech,18,18,Básico,Transferencia Bancaria (ACH),0
+CLI-1444,Manufactura Avanzada,3,35,Premium,PayPal Business,1
+CLI-1445,Educación / EdTech,12,12,Básico,Tarjeta de Crédito,0
+CLI-1446,Retail y Comercio,28,21,Básico,Transferencia Bancaria (ACH),0
+CLI-1447,Entretenimiento & Medios,5,15,Básico,Transferencia Bancaria (ACH),1
+CLI-1448,Educación / EdTech,11,25,Premium,PayPal Business,0
+CLI-1449,Fintech & Banca,27,32,Premium,PayPal Business,0
+CLI-1450,Logística y Distribución,18,16,Premium,PayPal Business,0
+CLI-1451,Retail y Comercio,9,17,Básico,PayPal Business,1
+CLI-1452,Logística y Distribución,10,18,Premium,PayPal Business,0
+CLI-1453,Retail y Comercio,3,15,Básico,Transferencia Bancaria (ACH),0
+CLI-1454,Salud & Pharma,7,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1455,Manufactura Avanzada,42,51,Básico,PayPal Business,0
+CLI-1456,Entretenimiento & Medios,5,10,Básico,Tarjeta de Crédito,1
+CLI-1457,Educación / EdTech,14,14,Básico,Tarjeta de Crédito,0
+CLI-1458,Educación / EdTech,8,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1459,Educación / EdTech,11,15,Básico,Transferencia Bancaria (ACH),0
+CLI-1460,Entretenimiento & Medios,5,21,Premium,Tarjeta de Crédito,0
+CLI-1461,Manufactura Avanzada,7,42,Básico,Tarjeta de Crédito,0
+CLI-1462,Salud & Pharma,10,11,Básico,Tarjeta de Crédito,0
+CLI-1463,Educación / EdTech,24,18,Básico,PayPal Business,0
+CLI-1464,Fintech & Banca,10,34,Básico,PayPal Business,0
+CLI-1465,Educación / EdTech,7,15,Básico,Tarjeta de Crédito,0
+CLI-1466,Fintech & Banca,15,59,Premium,PayPal Business,0
+CLI-1467,Salud & Pharma,10,13,Básico,Transferencia Bancaria (ACH),0
+CLI-1468,Manufactura Avanzada,6,47,Básico,Transferencia Bancaria (ACH),0
+CLI-1469,Logística y Distribución,6,17,Básico,Transferencia Bancaria (ACH),1
+CLI-1470,Educación / EdTech,4,19,Básico,PayPal Business,0
+CLI-1471,Manufactura Avanzada,21,38,Básico,Tarjeta de Crédito,0
+CLI-1472,Fintech & Banca,13,48,Básico,PayPal Business,1
+CLI-1473,Educación / EdTech,9,23,Básico,Transferencia Bancaria (ACH),0
+CLI-1474,Salud & Pharma,3,19,Premium,Tarjeta de Crédito,0
+CLI-1475,Fintech & Banca,6,38,Premium,Tarjeta de Crédito,0
+CLI-1476,Retail y Comercio,8,12,Básico,Transferencia Bancaria (ACH),0
+CLI-1477,Salud & Pharma,18,21,Premium,Tarjeta de Crédito,0
+CLI-1478,Educación / EdTech,3,15,Premium,Tarjeta de Crédito,0
+CLI-1479,Salud & Pharma,11,14,Premium,Transferencia Bancaria (ACH),0
+CLI-1480,Fintech & Banca,22,43,Básico,Transferencia Bancaria (ACH),0
+CLI-1481,Logística y Distribución,13,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1482,Entretenimiento & Medios,3,11,Básico,Tarjeta de Crédito,0
+CLI-1483,Fintech & Banca,6,33,Premium,Transferencia Bancaria (ACH),0
+CLI-1484,Entretenimiento & Medios,3,21,Básico,Tarjeta de Crédito,1
+CLI-1485,Salud & Pharma,6,16,Básico,PayPal Business,0
+CLI-1486,Salud & Pharma,10,7,Básico,Transferencia Bancaria (ACH),0
+CLI-1487,Logística y Distribución,32,14,Básico,PayPal Business,1
+CLI-1488,Retail y Comercio,4,20,Premium,Tarjeta de Crédito,0
+CLI-1489,Entretenimiento & Medios,3,8,Básico,PayPal Business,1
+CLI-1490,Educación / EdTech,5,8,Premium,Tarjeta de Crédito,0
+CLI-1491,Fintech & Banca,4,29,Básico,Tarjeta de Crédito,0
+CLI-1492,Retail y Comercio,36,16,Básico,Transferencia Bancaria (ACH),1
+CLI-1493,Salud & Pharma,27,10,Premium,PayPal Business,0
+CLI-1494,Fintech & Banca,6,41,Premium,Tarjeta de Crédito,0
+CLI-1495,Retail y Comercio,5,24,Premium,Transferencia Bancaria (ACH),0
+CLI-1496,Manufactura Avanzada,36,40,Premium,PayPal Business,0
+CLI-1497,Salud & Pharma,33,11,Básico,PayPal Business,0
+CLI-1498,Retail y Comercio,9,9,Básico,Transferencia Bancaria (ACH),0
+CLI-1499,Fintech & Banca,14,45,Básico,Tarjeta de Crédito,0
+CLI-1500,Entretenimiento & Medios,8,9,Básico,Transferencia Bancaria (ACH),1
+CLI-1501,Fintech & Banca,25,49,Básico,PayPal Business,0
+CLI-1502,Fintech & Banca,14,55,Básico,PayPal Business,1
+CLI-1503,Manufactura Avanzada,9,33,Básico,Tarjeta de Crédito,1
+CLI-1504,Educación / EdTech,46,14,Premium,PayPal Business,0
+CLI-1505,Salud & Pharma,9,18,Básico,PayPal Business,0
+CLI-1506,Manufactura Avanzada,23,38,Básico,PayPal Business,1
+CLI-1507,Logística y Distribución,48,22,Básico,PayPal Business,1
+CLI-1508,Entretenimiento & Medios,16,11,Básico,Tarjeta de Crédito,1
+CLI-1509,Logística y Distribución,5,16,Premium,Transferencia Bancaria (ACH),0
+CLI-1510,Logística y Distribución,4,20,Básico,PayPal Business,1
+CLI-1511,Educación / EdTech,8,6,Básico,Tarjeta de Crédito,1
+CLI-1512,Educación / EdTech,15,22,Premium,PayPal Business,1
+CLI-1513,Salud & Pharma,9,13,Básico,PayPal Business,1
+CLI-1514,Manufactura Avanzada,7,35,Básico,Transferencia Bancaria (ACH),0
+CLI-1515,Educación / EdTech,15,9,Premium,Tarjeta de Crédito,0
+CLI-1516,Logística y Distribución,6,23,Básico,PayPal Business,0
+CLI-1517,Logística y Distribución,25,13,Premium,Transferencia Bancaria (ACH),0
+CLI-1518,Logística y Distribución,3,19,Premium,Transferencia Bancaria (ACH),1
+CLI-1519,Fintech & Banca,8,41,Básico,Transferencia Bancaria (ACH),0
+CLI-1520,Fintech & Banca,9,33,Básico,Transferencia Bancaria (ACH),0
+CLI-1521,Retail y Comercio,5,11,Premium,Tarjeta de Crédito,1
+CLI-1522,Salud & Pharma,3,13,Básico,Tarjeta de Crédito,0
+CLI-1523,Salud & Pharma,4,17,Básico,Transferencia Bancaria (ACH),1
+CLI-1524,Logística y Distribución,48,13,Básico,PayPal Business,1
+CLI-1525,Logística y Distribución,21,21,Básico,PayPal Business,0
+CLI-1526,Fintech & Banca,13,41,Básico,Tarjeta de Crédito,0
+CLI-1527,Logística y Distribución,5,13,Básico,PayPal Business,0
+CLI-1528,Retail y Comercio,22,18,Básico,PayPal Business,0
+CLI-1529,Retail y Comercio,45,18,Premium,Transferencia Bancaria (ACH),0
+CLI-1530,Logística y Distribución,3,24,Básico,Tarjeta de Crédito,0
+CLI-1531,Entretenimiento & Medios,11,19,Premium,Transferencia Bancaria (ACH),0
+CLI-1532,Educación / EdTech,10,10,Básico,Transferencia Bancaria (ACH),0
+CLI-1533,Logística y Distribución,48,11,Básico,Tarjeta de Crédito,0
+CLI-1534,Logística y Distribución,36,5,Básico,Tarjeta de Crédito,0
+CLI-1535,Educación / EdTech,23,11,Básico,PayPal Business,1
+CLI-1536,Retail y Comercio,29,21,Básico,Transferencia Bancaria (ACH),0
+CLI-1537,Retail y Comercio,25,15,Premium,PayPal Business,0
+CLI-1538,Entretenimiento & Medios,25,18,Premium,Transferencia Bancaria (ACH),0
+CLI-1539,Salud & Pharma,10,14,Premium,Transferencia Bancaria (ACH),0
+CLI-1540,Retail y Comercio,11,11,Premium,Transferencia Bancaria (ACH),0
+CLI-1541,Salud & Pharma,9,8,Premium,Transferencia Bancaria (ACH),0
+CLI-1542,Entretenimiento & Medios,14,17,Básico,Tarjeta de Crédito,1
+CLI-1543,Educación / EdTech,7,14,Básico,PayPal Business,1
+CLI-1544,Entretenimiento & Medios,48,24,Premium,Tarjeta de Crédito,0
+CLI-1545,Manufactura Avanzada,47,29,Premium,Transferencia Bancaria (ACH),0
+CLI-1546,Educación / EdTech,13,5,Premium,Transferencia Bancaria (ACH),0
+CLI-1547,Salud & Pharma,7,8,Básico,Transferencia Bancaria (ACH),0
+CLI-1548,Entretenimiento & Medios,3,14,Básico,PayPal Business,0
+CLI-1549,Educación / EdTech,48,19,Premium,Tarjeta de Crédito,0
+CLI-1550,Salud & Pharma,14,7,Básico,Tarjeta de Crédito,0
+CLI-1551,Salud & Pharma,21,24,Premium,Tarjeta de Crédito,0
+CLI-1552,Educación / EdTech,48,18,Básico,Transferencia Bancaria (ACH),1
+CLI-1553,Entretenimiento & Medios,8,11,Premium,PayPal Business,0
+CLI-1554,Educación / EdTech,4,16,Básico,PayPal Business,0
+CLI-1555,Fintech & Banca,26,20,Básico,PayPal Business,0
+CLI-1556,Manufactura Avanzada,29,58,Básico,PayPal Business,0
+CLI-1557,Manufactura Avanzada,31,41,Premium,Tarjeta de Crédito,0
+CLI-1558,Educación / EdTech,5,14,Básico,Tarjeta de Crédito,0
+CLI-1559,Educación / EdTech,5,16,Básico,PayPal Business,0
+CLI-1560,Fintech & Banca,6,62,Básico,PayPal Business,0
+CLI-1561,Manufactura Avanzada,3,47,Premium,Tarjeta de Crédito,1
+CLI-1562,Fintech & Banca,18,17,Básico,PayPal Business,0
+CLI-1563,Entretenimiento & Medios,45,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1564,Logística y Distribución,7,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1565,Retail y Comercio,21,12,Básico,Transferencia Bancaria (ACH),1
+CLI-1566,Fintech & Banca,14,31,Básico,PayPal Business,0
+CLI-1567,Salud & Pharma,5,23,Premium,Tarjeta de Crédito,1
+CLI-1568,Salud & Pharma,21,6,Premium,PayPal Business,0
+CLI-1569,Entretenimiento & Medios,23,7,Premium,Transferencia Bancaria (ACH),0
+CLI-1570,Logística y Distribución,16,17,Básico,Transferencia Bancaria (ACH),0
+CLI-1571,Logística y Distribución,12,5,Básico,Tarjeta de Crédito,0
+CLI-1572,Logística y Distribución,6,17,Premium,PayPal Business,0
+CLI-1573,Entretenimiento & Medios,5,14,Premium,Tarjeta de Crédito,0
+CLI-1574,Manufactura Avanzada,11,30,Básico,PayPal Business,0
+CLI-1575,Manufactura Avanzada,14,46,Premium,PayPal Business,0
+CLI-1576,Educación / EdTech,12,13,Básico,Transferencia Bancaria (ACH),0
+CLI-1577,Retail y Comercio,21,14,Básico,Tarjeta de Crédito,0
+CLI-1578,Entretenimiento & Medios,38,11,Básico,Transferencia Bancaria (ACH),0
+CLI-1579,Entretenimiento & Medios,14,14,Básico,PayPal Business,0
+CLI-1580,Educación / EdTech,48,25,Básico,PayPal Business,0
+CLI-1581,Salud & Pharma,16,14,Básico,Tarjeta de Crédito,1
+CLI-1582,Educación / EdTech,4,5,Básico,Tarjeta de Crédito,1
+CLI-1583,Retail y Comercio,28,10,Básico,PayPal Business,0
+CLI-1584,Retail y Comercio,23,11,Básico,PayPal Business,0
+CLI-1585,Educación / EdTech,15,22,Básico,Tarjeta de Crédito,1
+CLI-1586,Fintech & Banca,10,37,Básico,Transferencia Bancaria (ACH),1
+CLI-1587,Educación / EdTech,11,25,Básico,PayPal Business,0
+CLI-1588,Logística y Distribución,8,26,Básico,Transferencia Bancaria (ACH),0
+CLI-1589,Fintech & Banca,9,42,Premium,Tarjeta de Crédito,0
+CLI-1590,Salud & Pharma,48,13,Premium,Tarjeta de Crédito,0
+CLI-1591,Entretenimiento & Medios,15,8,Básico,Tarjeta de Crédito,0
+CLI-1592,Logística y Distribución,11,20,Básico,Transferencia Bancaria (ACH),1
+CLI-1593,Educación / EdTech,22,9,Premium,PayPal Business,0
+CLI-1594,Entretenimiento & Medios,3,8,Básico,Transferencia Bancaria (ACH),1
+CLI-1595,Manufactura Avanzada,37,51,Básico,PayPal Business,1
+CLI-1596,Salud & Pharma,8,28,Premium,Tarjeta de Crédito,0
+CLI-1597,Logística y Distribución,14,9,Básico,PayPal Business,0
+CLI-1598,Entretenimiento & Medios,48,15,Básico,PayPal Business,0
+CLI-1599,Manufactura Avanzada,15,42,Premium,Tarjeta de Crédito,0
+CLI-1600,Fintech & Banca,15,33,Básico,PayPal Business,0
+CLI-1601,Logística y Distribución,15,11,Premium,Transferencia Bancaria (ACH),0
+CLI-1602,Manufactura Avanzada,17,57,Premium,Transferencia Bancaria (ACH),0
+CLI-1603,Salud & Pharma,16,12,Básico,Transferencia Bancaria (ACH),0
+CLI-1604,Educación / EdTech,36,10,Premium,Tarjeta de Crédito,0
+CLI-1605,Retail y Comercio,18,9,Premium,Transferencia Bancaria (ACH),0
+CLI-1606,Fintech & Banca,11,33,Básico,Tarjeta de Crédito,0
+CLI-1607,Educación / EdTech,16,14,Básico,PayPal Business,0
+CLI-1608,Entretenimiento & Medios,5,13,Premium,PayPal Business,0
+CLI-1609,Retail y Comercio,6,13,Premium,PayPal Business,0
+CLI-1610,Manufactura Avanzada,10,35,Básico,PayPal Business,0
+CLI-1611,Fintech & Banca,3,39,Premium,PayPal Business,0
+CLI-1612,Educación / EdTech,33,11,Básico,Transferencia Bancaria (ACH),0
+CLI-1613,Fintech & Banca,13,37,Premium,PayPal Business,0
+CLI-1614,Fintech & Banca,5,49,Premium,PayPal Business,0
+CLI-1615,Educación / EdTech,22,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1616,Entretenimiento & Medios,41,17,Básico,Transferencia Bancaria (ACH),0
+CLI-1617,Manufactura Avanzada,8,52,Premium,PayPal Business,0
+CLI-1618,Educación / EdTech,6,19,Premium,Transferencia Bancaria (ACH),0
+CLI-1619,Entretenimiento & Medios,21,14,Básico,PayPal Business,0
+CLI-1620,Entretenimiento & Medios,8,11,Premium,Transferencia Bancaria (ACH),0
+CLI-1621,Manufactura Avanzada,17,54,Básico,Tarjeta de Crédito,1
+CLI-1622,Fintech & Banca,31,34,Básico,Tarjeta de Crédito,0
+CLI-1623,Fintech & Banca,44,31,Premium,Transferencia Bancaria (ACH),0
+CLI-1624,Fintech & Banca,10,26,Básico,Transferencia Bancaria (ACH),0
+CLI-1625,Fintech & Banca,11,29,Básico,Tarjeta de Crédito,0
+CLI-1626,Retail y Comercio,7,19,Básico,Tarjeta de Crédito,0
+CLI-1627,Logística y Distribución,5,8,Básico,Transferencia Bancaria (ACH),0
+CLI-1628,Logística y Distribución,15,5,Premium,PayPal Business,0
+CLI-1629,Educación / EdTech,5,25,Básico,PayPal Business,0
+CLI-1630,Educación / EdTech,19,21,Básico,PayPal Business,0
+CLI-1631,Fintech & Banca,12,36,Básico,PayPal Business,0
+CLI-1632,Entretenimiento & Medios,48,15,Básico,PayPal Business,0
+CLI-1633,Educación / EdTech,12,16,Básico,Tarjeta de Crédito,0
+CLI-1634,Salud & Pharma,25,17,Premium,Transferencia Bancaria (ACH),0
+CLI-1635,Educación / EdTech,11,5,Premium,Transferencia Bancaria (ACH),0
+CLI-1636,Logística y Distribución,19,11,Básico,Tarjeta de Crédito,0
+CLI-1637,Fintech & Banca,30,30,Básico,PayPal Business,0
+CLI-1638,Entretenimiento & Medios,10,14,Premium,Transferencia Bancaria (ACH),0
+CLI-1639,Educación / EdTech,6,16,Básico,PayPal Business,0
+CLI-1640,Retail y Comercio,48,22,Básico,PayPal Business,0
+CLI-1641,Manufactura Avanzada,7,53,Básico,Tarjeta de Crédito,0
+CLI-1642,Fintech & Banca,5,38,Básico,Transferencia Bancaria (ACH),1
+CLI-1643,Educación / EdTech,7,14,Básico,Tarjeta de Crédito,1
+CLI-1644,Fintech & Banca,5,58,Básico,PayPal Business,0
+CLI-1645,Salud & Pharma,42,7,Premium,Tarjeta de Crédito,0
+CLI-1646,Manufactura Avanzada,11,39,Premium,Transferencia Bancaria (ACH),0
+CLI-1647,Manufactura Avanzada,48,28,Básico,Transferencia Bancaria (ACH),1
+CLI-1648,Salud & Pharma,3,20,Básico,PayPal Business,0
+CLI-1649,Logística y Distribución,23,14,Básico,Tarjeta de Crédito,0
+CLI-1650,Manufactura Avanzada,10,26,Básico,Tarjeta de Crédito,0
+CLI-1651,Educación / EdTech,24,14,Básico,PayPal Business,0
+CLI-1652,Retail y Comercio,12,20,Básico,Transferencia Bancaria (ACH),0
+CLI-1653,Manufactura Avanzada,33,36,Básico,Transferencia Bancaria (ACH),1
+CLI-1654,Educación / EdTech,39,19,Premium,Transferencia Bancaria (ACH),0
+CLI-1655,Fintech & Banca,12,19,Premium,PayPal Business,0
+CLI-1656,Manufactura Avanzada,5,35,Básico,Tarjeta de Crédito,1
+CLI-1657,Manufactura Avanzada,7,31,Premium,Transferencia Bancaria (ACH),0
+CLI-1658,Fintech & Banca,3,21,Básico,Tarjeta de Crédito,0
+CLI-1659,Retail y Comercio,4,13,Básico,Transferencia Bancaria (ACH),1
+CLI-1660,Entretenimiento & Medios,7,7,Básico,PayPal Business,0
+CLI-1661,Manufactura Avanzada,4,38,Básico,PayPal Business,1
+CLI-1662,Educación / EdTech,36,17,Básico,Transferencia Bancaria (ACH),0
+CLI-1663,Educación / EdTech,26,13,Básico,PayPal Business,0
+CLI-1664,Fintech & Banca,11,40,Premium,Tarjeta de Crédito,0
+CLI-1665,Retail y Comercio,21,26,Básico,Transferencia Bancaria (ACH),0
+CLI-1666,Logística y Distribución,5,28,Premium,Transferencia Bancaria (ACH),1
+CLI-1667,Educación / EdTech,29,30,Básico,Transferencia Bancaria (ACH),1
+CLI-1668,Manufactura Avanzada,13,39,Premium,Transferencia Bancaria (ACH),0
+CLI-1669,Manufactura Avanzada,13,55,Básico,Transferencia Bancaria (ACH),0
+CLI-1670,Retail y Comercio,9,11,Básico,PayPal Business,1
+CLI-1671,Manufactura Avanzada,10,38,Premium,Tarjeta de Crédito,0
+CLI-1672,Fintech & Banca,15,58,Básico,PayPal Business,0
+CLI-1673,Educación / EdTech,26,10,Básico,Tarjeta de Crédito,0
+CLI-1674,Educación / EdTech,7,10,Básico,Tarjeta de Crédito,0
+CLI-1675,Salud & Pharma,17,5,Premium,Tarjeta de Crédito,0
+CLI-1676,Entretenimiento & Medios,14,18,Premium,PayPal Business,0
+CLI-1677,Educación / EdTech,5,21,Básico,Transferencia Bancaria (ACH),0
+CLI-1678,Logística y Distribución,20,16,Básico,PayPal Business,0
+CLI-1679,Logística y Distribución,4,5,Premium,Transferencia Bancaria (ACH),0
+CLI-1680,Logística y Distribución,6,9,Premium,Tarjeta de Crédito,1
+CLI-1681,Fintech & Banca,47,30,Premium,Transferencia Bancaria (ACH),0
+CLI-1682,Manufactura Avanzada,48,25,Básico,Tarjeta de Crédito,0
+CLI-1683,Salud & Pharma,8,26,Básico,Transferencia Bancaria (ACH),0
+CLI-1684,Salud & Pharma,21,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1685,Salud & Pharma,3,5,Básico,PayPal Business,1
+CLI-1686,Logística y Distribución,12,7,Básico,PayPal Business,0
+CLI-1687,Logística y Distribución,5,7,Básico,PayPal Business,0
+CLI-1688,Educación / EdTech,48,5,Básico,Tarjeta de Crédito,0
+CLI-1689,Manufactura Avanzada,19,49,Básico,Tarjeta de Crédito,0
+CLI-1690,Educación / EdTech,18,24,Básico,Transferencia Bancaria (ACH),0
+CLI-1691,Retail y Comercio,15,10,Premium,Transferencia Bancaria (ACH),0
+CLI-1692,Entretenimiento & Medios,3,19,Premium,PayPal Business,1
+CLI-1693,Fintech & Banca,11,34,Premium,PayPal Business,0
+CLI-1694,Educación / EdTech,4,12,Básico,Transferencia Bancaria (ACH),0
+CLI-1695,Entretenimiento & Medios,8,19,Básico,PayPal Business,0
+CLI-1696,Educación / EdTech,7,28,Básico,Tarjeta de Crédito,0
+CLI-1697,Entretenimiento & Medios,6,24,Básico,PayPal Business,0
+CLI-1698,Logística y Distribución,9,10,Básico,PayPal Business,0
+CLI-1699,Fintech & Banca,48,26,Básico,Tarjeta de Crédito,1
+CLI-1700,Manufactura Avanzada,24,29,Premium,PayPal Business,0
+CLI-1701,Manufactura Avanzada,29,56,Básico,Tarjeta de Crédito,0
+CLI-1702,Educación / EdTech,3,8,Premium,PayPal Business,0
+CLI-1703,Retail y Comercio,3,5,Premium,Tarjeta de Crédito,0
+CLI-1704,Educación / EdTech,23,9,Básico,PayPal Business,1
+CLI-1705,Fintech & Banca,26,34,Premium,Tarjeta de Crédito,0
+CLI-1706,Retail y Comercio,19,5,Premium,Tarjeta de Crédito,1
+CLI-1707,Educación / EdTech,6,21,Premium,PayPal Business,0
+CLI-1708,Entretenimiento & Medios,5,24,Premium,PayPal Business,0
+CLI-1709,Manufactura Avanzada,14,37,Básico,Tarjeta de Crédito,0
+CLI-1710,Logística y Distribución,15,5,Premium,Transferencia Bancaria (ACH),1
+CLI-1711,Educación / EdTech,14,16,Básico,PayPal Business,0
+CLI-1712,Retail y Comercio,6,28,Básico,Transferencia Bancaria (ACH),1
+CLI-1713,Educación / EdTech,8,15,Básico,Tarjeta de Crédito,1
+CLI-1714,Manufactura Avanzada,7,23,Básico,Tarjeta de Crédito,0
+CLI-1715,Retail y Comercio,5,11,Premium,Transferencia Bancaria (ACH),0
+CLI-1716,Manufactura Avanzada,26,43,Premium,PayPal Business,0
+CLI-1717,Manufactura Avanzada,4,52,Básico,Tarjeta de Crédito,0
+CLI-1718,Retail y Comercio,17,17,Básico,Transferencia Bancaria (ACH),0
+CLI-1719,Fintech & Banca,13,41,Básico,Tarjeta de Crédito,0
+CLI-1720,Entretenimiento & Medios,10,13,Básico,Tarjeta de Crédito,0
+CLI-1721,Educación / EdTech,14,17,Premium,Transferencia Bancaria (ACH),0
+CLI-1722,Retail y Comercio,5,10,Básico,Tarjeta de Crédito,0
+CLI-1723,Retail y Comercio,5,15,Básico,Transferencia Bancaria (ACH),0
+CLI-1724,Retail y Comercio,4,21,Básico,Transferencia Bancaria (ACH),0
+CLI-1725,Logística y Distribución,31,17,Básico,Tarjeta de Crédito,0
+CLI-1726,Logística y Distribución,4,21,Básico,Transferencia Bancaria (ACH),0
+CLI-1727,Fintech & Banca,7,35,Básico,PayPal Business,1
+CLI-1728,Educación / EdTech,43,11,Básico,PayPal Business,1
+CLI-1729,Logística y Distribución,28,11,Premium,Tarjeta de Crédito,0
+CLI-1730,Educación / EdTech,7,17,Básico,Tarjeta de Crédito,0
+CLI-1731,Manufactura Avanzada,8,43,Básico,Transferencia Bancaria (ACH),0
+CLI-1732,Fintech & Banca,19,38,Premium,Tarjeta de Crédito,0
+CLI-1733,Manufactura Avanzada,28,55,Básico,PayPal Business,0
+CLI-1734,Entretenimiento & Medios,17,22,Premium,Tarjeta de Crédito,0
+CLI-1735,Fintech & Banca,36,33,Básico,PayPal Business,0
+CLI-1736,Retail y Comercio,27,14,Premium,Tarjeta de Crédito,0
+CLI-1737,Manufactura Avanzada,11,38,Básico,Tarjeta de Crédito,0
+CLI-1738,Manufactura Avanzada,39,32,Básico,Tarjeta de Crédito,0
+CLI-1739,Entretenimiento & Medios,8,10,Premium,PayPal Business,0
+CLI-1740,Entretenimiento & Medios,9,15,Básico,PayPal Business,1
+CLI-1741,Fintech & Banca,9,53,Premium,Tarjeta de Crédito,0
+CLI-1742,Manufactura Avanzada,7,55,Básico,PayPal Business,0
+CLI-1743,Fintech & Banca,4,36,Básico,PayPal Business,0
+CLI-1744,Retail y Comercio,31,15,Premium,Tarjeta de Crédito,0
+CLI-1745,Salud & Pharma,11,10,Premium,Tarjeta de Crédito,0
+CLI-1746,Retail y Comercio,27,14,Básico,Tarjeta de Crédito,1
+CLI-1747,Fintech & Banca,10,43,Básico,PayPal Business,0
+CLI-1748,Retail y Comercio,4,5,Premium,Transferencia Bancaria (ACH),0
+CLI-1749,Salud & Pharma,27,13,Básico,Tarjeta de Crédito,1
+CLI-1750,Educación / EdTech,14,22,Básico,Transferencia Bancaria (ACH),1
+CLI-1751,Manufactura Avanzada,22,24,Básico,PayPal Business,0
+CLI-1752,Entretenimiento & Medios,5,17,Básico,PayPal Business,1
+CLI-1753,Manufactura Avanzada,15,41,Premium,PayPal Business,0
+CLI-1754,Educación / EdTech,8,11,Básico,Transferencia Bancaria (ACH),0
+CLI-1755,Educación / EdTech,15,19,Básico,Tarjeta de Crédito,0
+CLI-1756,Salud & Pharma,21,23,Premium,Tarjeta de Crédito,0
+CLI-1757,Retail y Comercio,6,9,Básico,Transferencia Bancaria (ACH),0
+CLI-1758,Salud & Pharma,18,12,Premium,PayPal Business,1
+CLI-1759,Fintech & Banca,48,26,Básico,Transferencia Bancaria (ACH),1
+CLI-1760,Logística y Distribución,26,17,Básico,PayPal Business,0
+CLI-1761,Fintech & Banca,16,48,Premium,Tarjeta de Crédito,0
+CLI-1762,Retail y Comercio,3,20,Premium,PayPal Business,0
+CLI-1763,Logística y Distribución,29,20,Básico,PayPal Business,0
+CLI-1764,Entretenimiento & Medios,47,6,Básico,Transferencia Bancaria (ACH),0
+CLI-1765,Salud & Pharma,15,18,Básico,PayPal Business,0
+CLI-1766,Fintech & Banca,6,30,Básico,PayPal Business,1
+CLI-1767,Entretenimiento & Medios,37,12,Premium,Transferencia Bancaria (ACH),1
+CLI-1768,Logística y Distribución,12,12,Premium,Tarjeta de Crédito,0
+CLI-1769,Fintech & Banca,5,25,Básico,Tarjeta de Crédito,0
+CLI-1770,Logística y Distribución,19,19,Básico,PayPal Business,1
+CLI-1771,Fintech & Banca,22,33,Básico,Transferencia Bancaria (ACH),0
+CLI-1772,Manufactura Avanzada,48,17,Básico,Transferencia Bancaria (ACH),0
+CLI-1773,Manufactura Avanzada,7,50,Básico,PayPal Business,1
+CLI-1774,Educación / EdTech,37,5,Básico,PayPal Business,0
+CLI-1775,Retail y Comercio,34,16,Premium,Tarjeta de Crédito,0
+CLI-1776,Manufactura Avanzada,5,31,Premium,Transferencia Bancaria (ACH),0
+CLI-1777,Fintech & Banca,11,41,Básico,Tarjeta de Crédito,0
+CLI-1778,Manufactura Avanzada,5,44,Básico,Tarjeta de Crédito,0
+CLI-1779,Entretenimiento & Medios,4,23,Básico,Tarjeta de Crédito,0
+CLI-1780,Manufactura Avanzada,4,35,Básico,Transferencia Bancaria (ACH),1
+CLI-1781,Educación / EdTech,6,23,Básico,Transferencia Bancaria (ACH),0
+CLI-1782,Manufactura Avanzada,18,24,Premium,PayPal Business,0
+CLI-1783,Salud & Pharma,16,20,Básico,Transferencia Bancaria (ACH),1
+CLI-1784,Logística y Distribución,28,14,Premium,Tarjeta de Crédito,0
+CLI-1785,Manufactura Avanzada,5,53,Premium,PayPal Business,0
+CLI-1786,Fintech & Banca,48,54,Premium,PayPal Business,0
+CLI-1787,Salud & Pharma,6,13,Premium,PayPal Business,0
+CLI-1788,Entretenimiento & Medios,36,15,Básico,PayPal Business,0
+CLI-1789,Logística y Distribución,16,5,Básico,Tarjeta de Crédito,0
+CLI-1790,Fintech & Banca,23,16,Premium,PayPal Business,0
+CLI-1791,Logística y Distribución,42,15,Premium,PayPal Business,0
+CLI-1792,Manufactura Avanzada,7,38,Básico,Transferencia Bancaria (ACH),0
+CLI-1793,Logística y Distribución,7,16,Premium,PayPal Business,0
+CLI-1794,Fintech & Banca,7,48,Premium,Transferencia Bancaria (ACH),0
+CLI-1795,Salud & Pharma,3,23,Básico,Transferencia Bancaria (ACH),0
+CLI-1796,Educación / EdTech,27,6,Básico,PayPal Business,0
+CLI-1797,Salud & Pharma,17,24,Básico,Tarjeta de Crédito,0
+CLI-1798,Entretenimiento & Medios,3,5,Premium,Tarjeta de Crédito,0
+CLI-1799,Logística y Distribución,7,10,Premium,Transferencia Bancaria (ACH),0
+CLI-1800,Manufactura Avanzada,48,29,Premium,Transferencia Bancaria (ACH),0
+CLI-1801,Logística y Distribución,12,12,Premium,PayPal Business,0
+CLI-1802,Logística y Distribución,48,16,Básico,PayPal Business,0
+CLI-1803,Manufactura Avanzada,7,36,Premium,Tarjeta de Crédito,0
+CLI-1804,Fintech & Banca,9,34,Básico,PayPal Business,0
+CLI-1805,Salud & Pharma,8,15,Básico,Transferencia Bancaria (ACH),1
+CLI-1806,Salud & Pharma,5,15,Premium,PayPal Business,0
+CLI-1807,Retail y Comercio,27,12,Básico,PayPal Business,0
+CLI-1808,Retail y Comercio,4,13,Básico,PayPal Business,1
+CLI-1809,Educación / EdTech,39,22,Básico,Transferencia Bancaria (ACH),0
+CLI-1810,Salud & Pharma,20,14,Premium,PayPal Business,0
+CLI-1811,Salud & Pharma,5,23,Básico,Tarjeta de Crédito,1
+CLI-1812,Manufactura Avanzada,9,23,Básico,Transferencia Bancaria (ACH),0
+CLI-1813,Retail y Comercio,48,23,Básico,PayPal Business,0
+CLI-1814,Educación / EdTech,25,14,Básico,Transferencia Bancaria (ACH),0
+CLI-1815,Entretenimiento & Medios,33,25,Básico,PayPal Business,1
+CLI-1816,Fintech & Banca,10,22,Básico,Transferencia Bancaria (ACH),0
+CLI-1817,Fintech & Banca,4,31,Premium,Tarjeta de Crédito,1
+CLI-1818,Salud & Pharma,8,10,Básico,Transferencia Bancaria (ACH),0
+CLI-1819,Manufactura Avanzada,5,36,Premium,PayPal Business,0
+CLI-1820,Logística y Distribución,5,21,Básico,Tarjeta de Crédito,1
+CLI-1821,Educación / EdTech,3,7,Básico,Tarjeta de Crédito,0
+CLI-1822,Entretenimiento & Medios,3,28,Básico,Tarjeta de Crédito,0
+CLI-1823,Manufactura Avanzada,20,60,Básico,Transferencia Bancaria (ACH),1
+CLI-1824,Retail y Comercio,26,12,Básico,Tarjeta de Crédito,0
+CLI-1825,Manufactura Avanzada,6,47,Premium,Tarjeta de Crédito,0
+CLI-1826,Salud & Pharma,10,7,Básico,PayPal Business,0
+CLI-1827,Retail y Comercio,31,11,Básico,PayPal Business,0
+CLI-1828,Logística y Distribución,6,26,Básico,Tarjeta de Crédito,0
+CLI-1829,Salud & Pharma,9,14,Básico,Tarjeta de Crédito,0
+CLI-1830,Educación / EdTech,14,16,Premium,PayPal Business,0
+CLI-1831,Logística y Distribución,25,25,Básico,PayPal Business,0
+CLI-1832,Educación / EdTech,12,12,Básico,Tarjeta de Crédito,0
+CLI-1833,Educación / EdTech,11,16,Básico,Tarjeta de Crédito,0
+CLI-1834,Educación / EdTech,45,13,Básico,Tarjeta de Crédito,0
+CLI-1835,Logística y Distribución,16,8,Básico,Transferencia Bancaria (ACH),0
+CLI-1836,Retail y Comercio,4,15,Básico,PayPal Business,1
+CLI-1837,Manufactura Avanzada,11,31,Básico,Tarjeta de Crédito,0
+CLI-1838,Educación / EdTech,10,19,Premium,PayPal Business,0
+CLI-1839,Logística y Distribución,20,18,Básico,PayPal Business,0
+CLI-1840,Entretenimiento & Medios,48,5,Premium,PayPal Business,0
+CLI-1841,Retail y Comercio,7,9,Premium,Transferencia Bancaria (ACH),0
+CLI-1842,Retail y Comercio,5,16,Básico,Tarjeta de Crédito,0
+CLI-1843,Fintech & Banca,6,51,Premium,Transferencia Bancaria (ACH),0
+CLI-1844,Manufactura Avanzada,16,48,Premium,Tarjeta de Crédito,0
+CLI-1845,Salud & Pharma,4,7,Premium,PayPal Business,1
+CLI-1846,Logística y Distribución,9,10,Premium,PayPal Business,0
+CLI-1847,Logística y Distribución,19,10,Básico,PayPal Business,0
+CLI-1848,Manufactura Avanzada,10,31,Básico,PayPal Business,0
+CLI-1849,Salud & Pharma,3,7,Básico,Transferencia Bancaria (ACH),0
+CLI-1850,Entretenimiento & Medios,18,7,Premium,Tarjeta de Crédito,0
+CLI-1851,Entretenimiento & Medios,5,17,Básico,Transferencia Bancaria (ACH),0
+CLI-1852,Manufactura Avanzada,3,33,Básico,Tarjeta de Crédito,0
+CLI-1853,Retail y Comercio,8,22,Premium,Tarjeta de Crédito,0
+CLI-1854,Entretenimiento & Medios,10,11,Premium,Tarjeta de Crédito,0
+CLI-1855,Fintech & Banca,10,38,Premium,Transferencia Bancaria (ACH),0
+CLI-1856,Retail y Comercio,36,24,Básico,PayPal Business,0
+CLI-1857,Educación / EdTech,41,17,Básico,Transferencia Bancaria (ACH),0
+CLI-1858,Logística y Distribución,25,18,Premium,Transferencia Bancaria (ACH),0
+CLI-1859,Entretenimiento & Medios,7,15,Básico,Transferencia Bancaria (ACH),1
+CLI-1860,Fintech & Banca,17,25,Básico,Transferencia Bancaria (ACH),0
+CLI-1861,Fintech & Banca,48,40,Premium,PayPal Business,0
+CLI-1862,Educación / EdTech,18,13,Premium,PayPal Business,0
+CLI-1863,Fintech & Banca,3,15,Básico,Transferencia Bancaria (ACH),0
+CLI-1864,Fintech & Banca,4,65,Premium,PayPal Business,1
+CLI-1865,Retail y Comercio,12,14,Básico,Tarjeta de Crédito,0
+CLI-1866,Entretenimiento & Medios,17,24,Básico,Tarjeta de Crédito,0
+CLI-1867,Retail y Comercio,31,8,Premium,Tarjeta de Crédito,0
+CLI-1868,Logística y Distribución,13,17,Básico,Tarjeta de Crédito,0
+CLI-1869,Educación / EdTech,16,19,Premium,Transferencia Bancaria (ACH),0
+CLI-1870,Entretenimiento & Medios,48,11,Básico,PayPal Business,0
+CLI-1871,Entretenimiento & Medios,11,11,Básico,Transferencia Bancaria (ACH),0
+CLI-1872,Retail y Comercio,14,17,Básico,Transferencia Bancaria (ACH),0
+CLI-1873,Manufactura Avanzada,10,47,Básico,Transferencia Bancaria (ACH),0
+CLI-1874,Entretenimiento & Medios,20,12,Básico,PayPal Business,0
+CLI-1875,Fintech & Banca,16,54,Básico,PayPal Business,1
+CLI-1876,Manufactura Avanzada,17,32,Básico,Transferencia Bancaria (ACH),0
+CLI-1877,Manufactura Avanzada,20,43,Básico,Tarjeta de Crédito,0
+CLI-1878,Salud & Pharma,10,21,Básico,PayPal Business,0
+CLI-1879,Salud & Pharma,19,12,Básico,Tarjeta de Crédito,0
+CLI-1880,Salud & Pharma,26,16,Premium,Transferencia Bancaria (ACH),0
+CLI-1881,Logística y Distribución,13,15,Básico,PayPal Business,0
+CLI-1882,Manufactura Avanzada,29,47,Básico,Tarjeta de Crédito,0
+CLI-1883,Manufactura Avanzada,11,54,Premium,Transferencia Bancaria (ACH),0
+CLI-1884,Retail y Comercio,10,14,Básico,Tarjeta de Crédito,0
+CLI-1885,Manufactura Avanzada,12,21,Premium,Transferencia Bancaria (ACH),0
+CLI-1886,Salud & Pharma,12,17,Básico,Transferencia Bancaria (ACH),0
+CLI-1887,Educación / EdTech,4,9,Básico,Transferencia Bancaria (ACH),1
+CLI-1888,Salud & Pharma,8,11,Básico,Transferencia Bancaria (ACH),0
+CLI-1889,Manufactura Avanzada,8,65,Básico,Tarjeta de Crédito,0
+CLI-1890,Educación / EdTech,11,26,Premium,Tarjeta de Crédito,0
+CLI-1891,Educación / EdTech,9,9,Básico,Transferencia Bancaria (ACH),0
+CLI-1892,Manufactura Avanzada,22,30,Básico,Transferencia Bancaria (ACH),0
+CLI-1893,Fintech & Banca,20,39,Premium,Tarjeta de Crédito,0
+CLI-1894,Educación / EdTech,8,12,Básico,Tarjeta de Crédito,0
+CLI-1895,Logística y Distribución,6,12,Premium,Tarjeta de Crédito,0
+CLI-1896,Fintech & Banca,9,44,Premium,PayPal Business,0
+CLI-1897,Educación / EdTech,8,14,Básico,Transferencia Bancaria (ACH),0
+CLI-1898,Retail y Comercio,6,7,Premium,Transferencia Bancaria (ACH),0
+CLI-1899,Manufactura Avanzada,48,48,Básico,Tarjeta de Crédito,0
+CLI-1900,Educación / EdTech,7,13,Premium,Tarjeta de Crédito,0
+CLI-1901,Entretenimiento & Medios,18,12,Básico,Transferencia Bancaria (ACH),0
+CLI-1902,Educación / EdTech,3,15,Premium,Tarjeta de Crédito,0
+CLI-1903,Retail y Comercio,25,15,Básico,Transferencia Bancaria (ACH),0
+CLI-1904,Manufactura Avanzada,5,57,Básico,PayPal Business,0
+CLI-1905,Retail y Comercio,9,16,Básico,Transferencia Bancaria (ACH),1
+CLI-1906,Logística y Distribución,3,24,Básico,Transferencia Bancaria (ACH),0
+CLI-1907,Manufactura Avanzada,10,42,Premium,Tarjeta de Crédito,0
+CLI-1908,Educación / EdTech,11,18,Básico,PayPal Business,0
+CLI-1909,Entretenimiento & Medios,4,16,Básico,Transferencia Bancaria (ACH),1
+CLI-1910,Educación / EdTech,13,17,Básico,PayPal Business,0
+CLI-1911,Educación / EdTech,16,15,Básico,Transferencia Bancaria (ACH),0
+CLI-1912,Salud & Pharma,3,18,Básico,PayPal Business,1
+CLI-1913,Educación / EdTech,5,10,Premium,Tarjeta de Crédito,0
+CLI-1914,Educación / EdTech,5,17,Básico,Transferencia Bancaria (ACH),1
+CLI-1915,Manufactura Avanzada,7,23,Básico,PayPal Business,0
+CLI-1916,Logística y Distribución,10,10,Premium,Tarjeta de Crédito,0
+CLI-1917,Fintech & Banca,3,33,Premium,Transferencia Bancaria (ACH),0
+CLI-1918,Retail y Comercio,13,15,Básico,PayPal Business,0
+CLI-1919,Educación / EdTech,14,12,Básico,Transferencia Bancaria (ACH),0
+CLI-1920,Salud & Pharma,15,12,Básico,Transferencia Bancaria (ACH),0
+CLI-1921,Manufactura Avanzada,4,47,Básico,Transferencia Bancaria (ACH),1
+CLI-1922,Fintech & Banca,5,47,Básico,Tarjeta de Crédito,1
+CLI-1923,Fintech & Banca,19,54,Premium,PayPal Business,0
+CLI-1924,Educación / EdTech,19,18,Básico,PayPal Business,0
+CLI-1925,Fintech & Banca,6,34,Básico,Tarjeta de Crédito,0
+CLI-1926,Logística y Distribución,20,17,Básico,Tarjeta de Crédito,0
+CLI-1927,Salud & Pharma,38,10,Premium,PayPal Business,0
+CLI-1928,Entretenimiento & Medios,7,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1929,Logística y Distribución,10,14,Básico,Tarjeta de Crédito,0
+CLI-1930,Fintech & Banca,10,32,Básico,Tarjeta de Crédito,0
+CLI-1931,Salud & Pharma,23,12,Básico,Transferencia Bancaria (ACH),0
+CLI-1932,Educación / EdTech,9,17,Básico,Transferencia Bancaria (ACH),0
+CLI-1933,Fintech & Banca,25,29,Básico,Tarjeta de Crédito,0
+CLI-1934,Fintech & Banca,4,47,Básico,Tarjeta de Crédito,1
+CLI-1935,Retail y Comercio,4,22,Premium,Transferencia Bancaria (ACH),0
+CLI-1936,Salud & Pharma,14,5,Básico,PayPal Business,0
+CLI-1937,Manufactura Avanzada,9,45,Premium,Transferencia Bancaria (ACH),0
+CLI-1938,Educación / EdTech,31,21,Premium,PayPal Business,0
+CLI-1939,Manufactura Avanzada,38,41,Premium,Transferencia Bancaria (ACH),0
+CLI-1940,Educación / EdTech,22,9,Básico,PayPal Business,0
+CLI-1941,Educación / EdTech,5,18,Básico,PayPal Business,0
+CLI-1942,Retail y Comercio,11,20,Básico,Transferencia Bancaria (ACH),0
+CLI-1943,Entretenimiento & Medios,8,14,Básico,Tarjeta de Crédito,0
+CLI-1944,Retail y Comercio,16,13,Premium,Transferencia Bancaria (ACH),0
+CLI-1945,Retail y Comercio,28,12,Premium,Tarjeta de Crédito,1
+CLI-1946,Entretenimiento & Medios,5,13,Premium,Tarjeta de Crédito,0
+CLI-1947,Salud & Pharma,28,17,Básico,PayPal Business,1
+CLI-1948,Salud & Pharma,8,15,Básico,Transferencia Bancaria (ACH),0
+CLI-1949,Entretenimiento & Medios,9,28,Premium,Transferencia Bancaria (ACH),0
+CLI-1950,Manufactura Avanzada,7,54,Básico,Tarjeta de Crédito,0
+CLI-1951,Manufactura Avanzada,28,45,Básico,Transferencia Bancaria (ACH),1
+CLI-1952,Manufactura Avanzada,23,34,Premium,Transferencia Bancaria (ACH),0
+CLI-1953,Fintech & Banca,6,52,Básico,PayPal Business,0
+CLI-1954,Salud & Pharma,48,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1955,Logística y Distribución,5,18,Básico,Transferencia Bancaria (ACH),0
+CLI-1956,Manufactura Avanzada,31,38,Premium,PayPal Business,0
+CLI-1957,Educación / EdTech,9,16,Básico,Transferencia Bancaria (ACH),0
+CLI-1958,Educación / EdTech,24,12,Básico,PayPal Business,0
+CLI-1959,Salud & Pharma,12,11,Básico,Tarjeta de Crédito,0
+CLI-1960,Fintech & Banca,9,55,Básico,Tarjeta de Crédito,0
+CLI-1961,Educación / EdTech,13,11,Básico,Transferencia Bancaria (ACH),0
+CLI-1962,Retail y Comercio,18,21,Básico,PayPal Business,0
+CLI-1963,Fintech & Banca,7,41,Básico,Transferencia Bancaria (ACH),1
+CLI-1964,Logística y Distribución,17,16,Básico,PayPal Business,1
+CLI-1965,Logística y Distribución,16,33,Básico,Transferencia Bancaria (ACH),0
+CLI-1966,Educación / EdTech,4,18,Básico,Transferencia Bancaria (ACH),0
+CLI-1967,Fintech & Banca,45,29,Básico,Tarjeta de Crédito,1
+CLI-1968,Salud & Pharma,3,5,Premium,Tarjeta de Crédito,1
+CLI-1969,Retail y Comercio,13,5,Premium,Transferencia Bancaria (ACH),0
+CLI-1970,Salud & Pharma,5,15,Básico,PayPal Business,0
+CLI-1971,Retail y Comercio,11,9,Básico,Tarjeta de Crédito,0
+CLI-1972,Fintech & Banca,17,30,Premium,Tarjeta de Crédito,0
+CLI-1973,Salud & Pharma,10,13,Premium,Tarjeta de Crédito,0
+CLI-1974,Fintech & Banca,15,36,Premium,Tarjeta de Crédito,0
+CLI-1975,Retail y Comercio,3,11,Básico,Transferencia Bancaria (ACH),0
+CLI-1976,Logística y Distribución,38,15,Premium,PayPal Business,0
+CLI-1977,Entretenimiento & Medios,13,19,Premium,Transferencia Bancaria (ACH),0
+CLI-1978,Logística y Distribución,3,14,Básico,Tarjeta de Crédito,0
+CLI-1979,Entretenimiento & Medios,6,5,Básico,Tarjeta de Crédito,0
+CLI-1980,Fintech & Banca,9,19,Básico,Transferencia Bancaria (ACH),0
+CLI-1981,Retail y Comercio,12,17,Básico,Transferencia Bancaria (ACH),1
+CLI-1982,Educación / EdTech,41,20,Premium,Tarjeta de Crédito,0
+CLI-1983,Manufactura Avanzada,6,42,Básico,PayPal Business,1
+CLI-1984,Salud & Pharma,3,20,Básico,PayPal Business,1
+CLI-1985,Retail y Comercio,11,20,Premium,Tarjeta de Crédito,0
+CLI-1986,Fintech & Banca,7,64,Básico,Tarjeta de Crédito,0
+CLI-1987,Salud & Pharma,4,24,Premium,Transferencia Bancaria (ACH),1
+CLI-1988,Entretenimiento & Medios,48,11,Básico,Transferencia Bancaria (ACH),0
+CLI-1989,Salud & Pharma,12,11,Premium,Tarjeta de Crédito,1
+CLI-1990,Logística y Distribución,19,5,Premium,PayPal Business,0
+CLI-1991,Salud & Pharma,6,13,Básico,PayPal Business,0
+CLI-1992,Retail y Comercio,13,19,Premium,Tarjeta de Crédito,0
+CLI-1993,Salud & Pharma,3,20,Básico,Tarjeta de Crédito,0
+CLI-1994,Retail y Comercio,6,12,Básico,PayPal Business,1
+CLI-1995,Retail y Comercio,9,15,Básico,PayPal Business,1
+CLI-1996,Manufactura Avanzada,48,42,Básico,Tarjeta de Crédito,1
+CLI-1997,Fintech & Banca,3,34,Básico,Transferencia Bancaria (ACH),0
+CLI-1998,Entretenimiento & Medios,44,5,Premium,PayPal Business,0
+CLI-1999,Entretenimiento & Medios,7,24,Premium,Transferencia Bancaria (ACH),0
+CLI-2000,Logística y Distribución,32,18,Básico,PayPal Business,0
