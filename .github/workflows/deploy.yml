@@ -27,4 +27,4 @@ jobs:
     # Cambiado aquí también en el comando de origen de S3 sync
     - name: Sync Data Folder to S3
       run: |
-        aws s3 sync "./1. Data" s3://your-bucket-name/Data --delete
+        aws s3 sync "./1. Data" s3://dataengineeringaws01/Data --delete
