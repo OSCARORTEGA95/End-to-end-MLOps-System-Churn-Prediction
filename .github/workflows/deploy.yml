@@ -5,7 +5,6 @@ on:
     branches:
       - main
       - development
-    # Cambiado aquí para que coincida con tu carpeta real
     paths:
       - '1. Data/**'
 
@@ -24,7 +23,6 @@ jobs:
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         aws-region: us-east-1
 
-    # Cambiado aquí también en el comando de origen de S3 sync
     - name: Sync Data Folder to S3
       run: |
 <<<<<<< HEAD
