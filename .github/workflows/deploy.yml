@@ -25,8 +25,4 @@ jobs:
 
     - name: Sync Data Folder to S3
       run: |
-<<<<<<< HEAD
-        aws s3 sync "./1. Data" s3://your-bucket-name/Data --delete
-=======
         aws s3 sync "./1. Data" s3://dataengineeringaws01/Data --delete
->>>>>>> 593587aa13baa1081b939ff495d82203d619b18a
