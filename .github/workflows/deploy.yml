@@ -5,9 +5,9 @@ on:
     branches:
       - main
       - development
-      # Only trigger the workflow if files inside the Data folder change
+    # Cambiado aquí para que coincida con tu carpeta real
     paths:
-      - 'Data/**'
+      - '1. Data/**'
 
 jobs:
   deploy:
@@ -22,9 +22,9 @@ jobs:
       with:
         aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        aws-region: us-east-1 # Change to your bucket's region
+        aws-region: us-east-1
 
-    # Syncs only the contents of the Data folder to your S3 bucket
+    # Cambiado aquí también en el comando de origen de S3 sync
     - name: Sync Data Folder to S3
       run: |
-        aws s3 sync ./Data s3://your-bucket-name/Data --delete
+        aws s3 sync "./1. Data" s3://your-bucket-name/Data --delete
